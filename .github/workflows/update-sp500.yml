@@ -11,22 +11,32 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: '18'
           cache: 'npm'
 
-      - name: Install deps
-        run: npm ci || npm install
+      - name: Install dependencies
+        run: |
+          npm ci || npm install
+
+      - name: Ensure data folder exists
+        run: mkdir -p data
 
       - name: Run updater
         run: npm run update:sp500
 
-      - name: Commit changes
+      - name: Commit changes (data/*)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(data): daily S&P 500 refresh"
           file_pattern: data/*
+          # The action will commit back to the currently checked out branch (master).
