@@ -1,4 +1,4 @@
-name: Daily S&P 500 updater
+﻿name: Daily S&P 500 updater
 
 on:
   schedule:
