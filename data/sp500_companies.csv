@@ -1,0 +1,504 @@
+Ticker,Company Name,Sector
+A,Agilent Technologies,Life Sciences Tools & Services
+AAPL,Apple Inc.,Technology Hardware  Storage & Peripherals
+ABBV,AbbVie,Biotechnology
+ABNB,Airbnb,Hotels  Resorts & Cruise Lines
+ABT,Abbott Laboratories,Health Care Equipment
+ACGL,Arch Capital Group,Property & Casualty Insurance
+ACN,Accenture,IT Consulting & Other Services
+ADBE,Adobe Inc.,Application Software
+ADI,Analog Devices,Semiconductors
+ADM,Archer Daniels Midland,Agricultural Products & Services
+ADP,Automatic Data Processing,Human Resource & Employment Services
+ADSK,Autodesk,Application Software
+AEE,Ameren,Multi-Utilities
+AEP,American Electric Power,Electric Utilities
+AES,AES Corporation,Independent Power Producers & Energy Traders
+AFL,Aflac,Life & Health Insurance
+AIG,American International Group,Multi-line Insurance
+AIZ,Assurant,Multi-line Insurance
+AJG,Arthur J. Gallagher & Co.,Insurance Brokers
+AKAM,Akamai Technologies,Internet Services & Infrastructure
+ALB,Albemarle Corporation,Specialty Chemicals
+ALGN,Align Technology,Health Care Supplies
+ALL,Allstate,Property & Casualty Insurance
+ALLE,Allegion,Building Products
+AMAT,Applied Materials,Semiconductor Materials & Equipment
+AMCR,Amcor,Paper & Plastic Packaging Products & Materials
+AMD,Advanced Micro Devices,Semiconductors
+AME,Ametek,Electrical Components & Equipment
+AMGN,Amgen,Biotechnology
+AMP,Ameriprise Financial,Asset Management & Custody Banks
+AMT,American Tower,Telecom Tower REITs
+AMZN,Amazon,Broadline Retail
+ANET,Arista Networks,Communications Equipment
+AON,Aon plc,Insurance Brokers
+AOS,A. O. Smith,Building Products
+APA,APA Corporation,Oil & Gas Exploration & Production
+APD,Air Products,Industrial Gases
+APH,Amphenol,Electronic Components
+APO,Apollo Global Management,Asset Management & Custody Banks
+APTV,Aptiv,Automotive Parts & Equipment
+ARE,Alexandria Real Estate Equities,Office REITs
+ATO,Atmos Energy,Gas Utilities
+AVB,AvalonBay Communities,Multi-Family Residential REITs
+AVGO,Broadcom,Semiconductors
+AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials
+AWK,American Water Works,Water Utilities
+AXON,Axon Enterprise,Aerospace & Defense
+AXP,American Express,Consumer Finance
+AZO,AutoZone,Automotive Retail
+BA,Boeing,Aerospace & Defense
+BAC,Bank of America,Diversified Banks
+BALL,Ball Corporation,Metal  Glass & Plastic Containers
+BAX,Baxter International,Health Care Equipment
+BBY,Best Buy,Computer & Electronics Retail
+BDX,Becton Dickinson,Health Care Equipment
+BEN,Franklin Resources,Asset Management & Custody Banks
+BF.B,Brown–Forman,Distillers & Vintners
+BG,Bunge Global,Agricultural Products & Services
+BIIB,Biogen,Biotechnology
+BK,BNY Mellon,Asset Management & Custody Banks
+BKNG,Booking Holdings,Hotels  Resorts & Cruise Lines
+BKR,Baker Hughes,Oil & Gas Equipment & Services
+BLDR,Builders FirstSource,Building Products
+BLK,BlackRock,Asset Management & Custody Banks
+BMY,Bristol Myers Squibb,Pharmaceuticals
+BR,Broadridge Financial Solutions,Data Processing & Outsourced Services
+BRK.B,Berkshire Hathaway,Multi-Sector Holdings
+BRO,Brown & Brown,Insurance Brokers
+BSX,Boston Scientific,Health Care Equipment
+BX,Blackstone Inc.,Asset Management & Custody Banks
+BXP,BXP  Inc.,Office REITs
+C,Citigroup,Diversified Banks
+CAG,Conagra Brands,Packaged Foods & Meats
+CAH,Cardinal Health,Health Care Distributors
+CARR,Carrier Global,Building Products
+CAT,Caterpillar Inc.,Construction Machinery & Heavy Transportation Equipment
+CB,Chubb Limited,Property & Casualty Insurance
+CBOE,Cboe Global Markets,Financial Exchanges & Data
+CBRE,CBRE Group,Real Estate Services
+CCI,Crown Castle,Telecom Tower REITs
+CCL,Carnival,Hotels  Resorts & Cruise Lines
+CDNS,Cadence Design Systems,Application Software
+CDW,CDW Corporation,Technology Distributors
+CEG,Constellation Energy,Electric Utilities
+CF,CF Industries,Fertilizers & Agricultural Chemicals
+CFG,Citizens Financial Group,Regional Banks
+CHD,Church & Dwight,Household Products
+CHRW,C.H. Robinson,Air Freight & Logistics
+CHTR,Charter Communications,Cable & Satellite
+CI,Cigna,Health Care Services
+CINF,Cincinnati Financial,Property & Casualty Insurance
+CL,Colgate-Palmolive,Household Products
+CLX,Clorox,Household Products
+CMCSA,Comcast,Cable & Satellite
+CME,CME Group,Financial Exchanges & Data
+CMG,Chipotle Mexican Grill,Restaurants
+CMI,Cummins,Construction Machinery & Heavy Transportation Equipment
+CMS,CMS Energy,Multi-Utilities
+CNC,Centene Corporation,Managed Health Care
+CNP,CenterPoint Energy,Multi-Utilities
+COF,Capital One,Consumer Finance
+COIN,Coinbase,Financial Exchanges & Data
+COO,Cooper Companies (The),Health Care Supplies
+COP,ConocoPhillips,Oil & Gas Exploration & Production
+COR,Cencora,Health Care Distributors
+COST,Costco,Consumer Staples Merchandise Retail
+CPAY,Corpay,Transaction & Payment Processing Services
+CPB,Campbell's Company (The),Packaged Foods & Meats
+CPRT,Copart,Diversified Support Services
+CPT,Camden Property Trust,Multi-Family Residential REITs
+CRL,Charles River Laboratories,Life Sciences Tools & Services
+CRM,Salesforce,Application Software
+CRWD,CrowdStrike,Systems Software
+CSCO,Cisco,Communications Equipment
+CSGP,CoStar Group,Real Estate Services
+CSX,CSX Corporation,Rail Transportation
+CTAS,Cintas,Diversified Support Services
+CTRA,Coterra,Oil & Gas Exploration & Production
+CTSH,Cognizant,IT Consulting & Other Services
+CTVA,Corteva,Fertilizers & Agricultural Chemicals
+CVS,CVS Health,Health Care Services
+CVX,Chevron Corporation,Integrated Oil & Gas
+CZR,Caesars Entertainment,Casinos & Gaming
+D,Dominion Energy,Multi-Utilities
+DAL,Delta Air Lines,Passenger Airlines
+DASH,DoorDash,Specialized Consumer Services
+DAY,Dayforce,Human Resource & Employment Services
+DD,DuPont,Specialty Chemicals
+DDOG,Datadog,Application Software
+DE,Deere & Company,Agricultural & Farm Machinery
+DECK,Deckers Brands,Footwear
+DELL,Dell Technologies,Technology Hardware  Storage & Peripherals
+DG,Dollar General,Consumer Staples Merchandise Retail
+DGX,Quest Diagnostics,Health Care Services
+DHI,D. R. Horton,Homebuilding
+DHR,Danaher Corporation,Life Sciences Tools & Services
+DIS,Walt Disney Company (The),Movies & Entertainment
+DLR,Digital Realty,Data Center REITs
+DLTR,Dollar Tree,Consumer Staples Merchandise Retail
+DOC,Healthpeak Properties,Health Care REITs
+DOV,Dover Corporation,Industrial Machinery & Supplies & Components
+DOW,Dow Inc.,Commodity Chemicals
+DPZ,Domino's,Restaurants
+DRI,Darden Restaurants,Restaurants
+DTE,DTE Energy,Multi-Utilities
+DUK,Duke Energy,Electric Utilities
+DVA,DaVita,Health Care Services
+DVN,Devon Energy,Oil & Gas Exploration & Production
+DXCM,Dexcom,Health Care Equipment
+EA,Electronic Arts,Interactive Home Entertainment
+EBAY,eBay Inc.,Broadline Retail
+ECL,Ecolab,Specialty Chemicals
+ED,Consolidated Edison,Multi-Utilities
+EFX,Equifax,Research & Consulting Services
+EG,Everest Group,Reinsurance
+EIX,Edison International,Electric Utilities
+EL,Estée Lauder Companies (The),Personal Care Products
+ELV,Elevance Health,Managed Health Care
+EMN,Eastman Chemical Company,Specialty Chemicals
+EMR,Emerson Electric,Electrical Components & Equipment
+ENPH,Enphase Energy,Semiconductor Materials & Equipment
+EOG,EOG Resources,Oil & Gas Exploration & Production
+EPAM,EPAM Systems,IT Consulting & Other Services
+EQIX,Equinix,Data Center REITs
+EQR,Equity Residential,Multi-Family Residential REITs
+EQT,EQT Corporation,Oil & Gas Exploration & Production
+ERIE,Erie Indemnity,Insurance Brokers
+ES,Eversource Energy,Electric Utilities
+ESS,Essex Property Trust,Multi-Family Residential REITs
+ETN,Eaton Corporation,Electrical Components & Equipment
+ETR,Entergy,Electric Utilities
+EVRG,Evergy,Electric Utilities
+EW,Edwards Lifesciences,Health Care Equipment
+EXC,Exelon,Electric Utilities
+EXE,Expand Energy,Oil & Gas Exploration & Production
+EXPD,Expeditors International,Air Freight & Logistics
+EXPE,Expedia Group,Hotels  Resorts & Cruise Lines
+EXR,Extra Space Storage,Self-Storage REITs
+F,Ford Motor Company,Automobile Manufacturers
+FANG,Diamondback Energy,Oil & Gas Exploration & Production
+FAST,Fastenal,Trading Companies & Distributors
+FCX,Freeport-McMoRan,Copper
+FDS,FactSet,Financial Exchanges & Data
+FDX,FedEx,Air Freight & Logistics
+FE,FirstEnergy,Electric Utilities
+FFIV,F5  Inc.,Communications Equipment
+FI,Fiserv,Transaction & Payment Processing Services
+FICO,Fair Isaac,Application Software
+FIS,Fidelity National Information Services,Transaction & Payment Processing Services
+FITB,Fifth Third Bancorp,Regional Banks
+FOX,Fox Corporation (Class B),Broadcasting
+FOXA,Fox Corporation (Class A),Broadcasting
+FRT,Federal Realty Investment Trust,Retail REITs
+FSLR,First Solar,Semiconductors
+FTNT,Fortinet,Systems Software
+FTV,Fortive,Industrial Machinery & Supplies & Components
+GD,General Dynamics,Aerospace & Defense
+GDDY,GoDaddy,Internet Services & Infrastructure
+GE,GE Aerospace,Aerospace & Defense
+GEHC,GE HealthCare,Health Care Equipment
+GEN,Gen Digital,Systems Software
+GEV,GE Vernova,Heavy Electrical Equipment
+GILD,Gilead Sciences,Biotechnology
+GIS,General Mills,Packaged Foods & Meats
+GL,Globe Life,Life & Health Insurance
+GLW,Corning Inc.,Electronic Components
+GM,General Motors,Automobile Manufacturers
+GNRC,Generac,Electrical Components & Equipment
+GOOG,Alphabet Inc. (Class C),Interactive Media & Services
+GOOGL,Alphabet Inc. (Class A),Interactive Media & Services
+GPC,Genuine Parts Company,Distributors
+GPN,Global Payments,Transaction & Payment Processing Services
+GRMN,Garmin,Consumer Electronics
+GS,Goldman Sachs,Investment Banking & Brokerage
+GWW,W. W. Grainger,Industrial Machinery & Supplies & Components
+HAL,Halliburton,Oil & Gas Equipment & Services
+HAS,Hasbro,Leisure Products
+HBAN,Huntington Bancshares,Regional Banks
+HCA,HCA Healthcare,Health Care Facilities
+HD,Home Depot (The),Home Improvement Retail
+HIG,Hartford (The),Property & Casualty Insurance
+HII,Huntington Ingalls Industries,Aerospace & Defense
+HLT,Hilton Worldwide,Hotels  Resorts & Cruise Lines
+HOLX,Hologic,Health Care Equipment
+HON,Honeywell,Industrial Conglomerates
+HPE,Hewlett Packard Enterprise,Technology Hardware  Storage & Peripherals
+HPQ,HP Inc.,Technology Hardware  Storage & Peripherals
+HRL,Hormel Foods,Packaged Foods & Meats
+HSIC,Henry Schein,Health Care Distributors
+HST,Host Hotels & Resorts,Hotel & Resort REITs
+HSY,Hershey Company (The),Packaged Foods & Meats
+HUBB,Hubbell Incorporated,Industrial Machinery & Supplies & Components
+HUM,Humana,Managed Health Care
+HWM,Howmet Aerospace,Aerospace & Defense
+IBKR,Interactive Brokers,Investment Banking & Brokerage
+IBM,IBM,IT Consulting & Other Services
+ICE,Intercontinental Exchange,Financial Exchanges & Data
+IDXX,Idexx Laboratories,Health Care Equipment
+IEX,IDEX Corporation,Industrial Machinery & Supplies & Components
+IFF,International Flavors & Fragrances,Specialty Chemicals
+INCY,Incyte,Biotechnology
+INTC,Intel,Semiconductors
+INTU,Intuit,Application Software
+INVH,Invitation Homes,Single-Family Residential REITs
+IP,International Paper,Paper & Plastic Packaging Products & Materials
+IPG,Interpublic Group of Companies (The),Advertising
+IQV,IQVIA,Life Sciences Tools & Services
+IR,Ingersoll Rand,Industrial Machinery & Supplies & Components
+IRM,Iron Mountain,Other Specialized REITs
+ISRG,Intuitive Surgical,Health Care Equipment
+IT,Gartner,IT Consulting & Other Services
+ITW,Illinois Tool Works,Industrial Machinery & Supplies & Components
+IVZ,Invesco,Asset Management & Custody Banks
+J,Jacobs Solutions,Construction & Engineering
+JBHT,J.B. Hunt,Cargo Ground Transportation
+JBL,Jabil,Electronic Manufacturing Services
+JCI,Johnson Controls,Building Products
+JKHY,Jack Henry & Associates,Transaction & Payment Processing Services
+JNJ,Johnson & Johnson,Pharmaceuticals
+JPM,JPMorgan Chase,Diversified Banks
+K,Kellanova,Packaged Foods & Meats
+KDP,Keurig Dr Pepper,Soft Drinks & Non-alcoholic Beverages
+KEY,KeyCorp,Regional Banks
+KEYS,Keysight Technologies,Electronic Equipment & Instruments
+KHC,Kraft Heinz,Packaged Foods & Meats
+KIM,Kimco Realty,Retail REITs
+KKR,KKR & Co.,Asset Management & Custody Banks
+KLAC,KLA Corporation,Semiconductor Materials & Equipment
+KMB,Kimberly-Clark,Household Products
+KMI,Kinder Morgan,Oil & Gas Storage & Transportation
+KMX,CarMax,Automotive Retail
+KO,Coca-Cola Company (The),Soft Drinks & Non-alcoholic Beverages
+KR,Kroger,Food Retail
+KVUE,Kenvue,Personal Care Products
+L,Loews Corporation,Multi-line Insurance
+LDOS,Leidos,Diversified Support Services
+LEN,Lennar,Homebuilding
+LH,Labcorp,Health Care Services
+LHX,L3Harris,Aerospace & Defense
+LII,Lennox International,Building Products
+LIN,Linde plc,Industrial Gases
+LKQ,LKQ Corporation,Distributors
+LLY,Lilly (Eli),Pharmaceuticals
+LMT,Lockheed Martin,Aerospace & Defense
+LNT,Alliant Energy,Electric Utilities
+LOW,Lowe's,Home Improvement Retail
+LRCX,Lam Research,Semiconductor Materials & Equipment
+LULU,Lululemon Athletica,Apparel  Accessories & Luxury Goods
+LUV,Southwest Airlines,Passenger Airlines
+LVS,Las Vegas Sands,Casinos & Gaming
+LW,Lamb Weston,Packaged Foods & Meats
+LYB,LyondellBasell,Specialty Chemicals
+LYV,Live Nation Entertainment,Movies & Entertainment
+MA,Mastercard,Transaction & Payment Processing Services
+MAA,Mid-America Apartment Communities,Multi-Family Residential REITs
+MAR,Marriott International,Hotels  Resorts & Cruise Lines
+MAS,Masco,Building Products
+MCD,McDonald's,Restaurants
+MCHP,Microchip Technology,Semiconductors
+MCK,McKesson Corporation,Health Care Distributors
+MCO,Moody's Corporation,Financial Exchanges & Data
+MDLZ,Mondelez International,Packaged Foods & Meats
+MDT,Medtronic,Health Care Equipment
+MET,MetLife,Life & Health Insurance
+META,Meta Platforms,Interactive Media & Services
+MGM,MGM Resorts,Casinos & Gaming
+MHK,Mohawk Industries,Home Furnishings
+MKC,McCormick & Company,Packaged Foods & Meats
+MKTX,MarketAxess,Financial Exchanges & Data
+MLM,Martin Marietta Materials,Construction Materials
+MMC,Marsh McLennan,Insurance Brokers
+MMM,3M,Industrial Conglomerates
+MNST,Monster Beverage,Soft Drinks & Non-alcoholic Beverages
+MO,Altria,Tobacco
+MOH,Molina Healthcare,Managed Health Care
+MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals
+MPC,Marathon Petroleum,Oil & Gas Refining & Marketing
+MPWR,Monolithic Power Systems,Semiconductors
+MRK,Merck & Co.,Pharmaceuticals
+MRNA,Moderna,Biotechnology
+MS,Morgan Stanley,Investment Banking & Brokerage
+MSCI,MSCI Inc.,Financial Exchanges & Data
+MSFT,Microsoft,Systems Software
+MSI,Motorola Solutions,Communications Equipment
+MTB,M&T Bank,Regional Banks
+MTCH,Match Group,Interactive Media & Services
+MTD,Mettler Toledo,Life Sciences Tools & Services
+MU,Micron Technology,Semiconductors
+NCLH,Norwegian Cruise Line Holdings,Hotels  Resorts & Cruise Lines
+NDAQ,Nasdaq  Inc.,Financial Exchanges & Data
+NDSN,Nordson Corporation,Industrial Machinery & Supplies & Components
+NEE,NextEra Energy,Multi-Utilities
+NEM,Newmont,Gold
+NFLX,Netflix,Movies & Entertainment
+NI,NiSource,Multi-Utilities
+NKE,Nike  Inc.,Apparel  Accessories & Luxury Goods
+NOC,Northrop Grumman,Aerospace & Defense
+NOW,ServiceNow,Systems Software
+NRG,NRG Energy,Independent Power Producers & Energy Traders
+NSC,Norfolk Southern,Rail Transportation
+NTAP,NetApp,Technology Hardware  Storage & Peripherals
+NTRS,Northern Trust,Asset Management & Custody Banks
+NUE,Nucor,Steel
+NVDA,Nvidia,Semiconductors
+NVR,NVR  Inc.,Homebuilding
+NWS,News Corp (Class B),Publishing
+NWSA,News Corp (Class A),Publishing
+NXPI,NXP Semiconductors,Semiconductors
+O,Realty Income,Retail REITs
+ODFL,Old Dominion,Cargo Ground Transportation
+OKE,Oneok,Oil & Gas Storage & Transportation
+OMC,Omnicom Group,Advertising
+ON,ON Semiconductor,Semiconductors
+ORCL,Oracle Corporation,Application Software
+ORLY,O’Reilly Automotive,Automotive Retail
+OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components
+OXY,Occidental Petroleum,Oil & Gas Exploration & Production
+PANW,Palo Alto Networks,Systems Software
+PAYC,Paycom,Human Resource & Employment Services
+PAYX,Paychex,Human Resource & Employment Services
+PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment
+PCG,PG&E Corporation,Multi-Utilities
+PEG,Public Service Enterprise Group,Electric Utilities
+PEP,PepsiCo,Soft Drinks & Non-alcoholic Beverages
+PFE,Pfizer,Pharmaceuticals
+PFG,Principal Financial Group,Life & Health Insurance
+PG,Procter & Gamble,Personal Care Products
+PGR,Progressive Corporation,Property & Casualty Insurance
+PH,Parker Hannifin,Industrial Machinery & Supplies & Components
+PHM,PulteGroup,Homebuilding
+PKG,Packaging Corporation of America,Paper & Plastic Packaging Products & Materials
+PLD,Prologis,Industrial REITs
+PLTR,Palantir Technologies,Application Software
+PM,Philip Morris International,Tobacco
+PNC,PNC Financial Services,Diversified Banks
+PNR,Pentair,Industrial Machinery & Supplies & Components
+PNW,Pinnacle West Capital,Multi-Utilities
+PODD,Insulet Corporation,Health Care Equipment
+POOL,Pool Corporation,Distributors
+PPG,PPG Industries,Specialty Chemicals
+PPL,PPL Corporation,Electric Utilities
+PRU,Prudential Financial,Life & Health Insurance
+PSA,Public Storage,Self-Storage REITs
+PSKY,Paramount Skydance Corporation,Movies & Entertainment
+PSX,Phillips 66,Oil & Gas Refining & Marketing
+PTC,PTC Inc.,Application Software
+PWR,Quanta Services,Construction & Engineering
+PYPL,PayPal,Transaction & Payment Processing Services
+QCOM,Qualcomm,Semiconductors
+RCL,Royal Caribbean Group,Hotels  Resorts & Cruise Lines
+REG,Regency Centers,Retail REITs
+REGN,Regeneron Pharmaceuticals,Biotechnology
+RF,Regions Financial Corporation,Regional Banks
+RJF,Raymond James Financial,Investment Banking & Brokerage
+RL,Ralph Lauren Corporation,Apparel  Accessories & Luxury Goods
+RMD,ResMed,Health Care Equipment
+ROK,Rockwell Automation,Electrical Components & Equipment
+ROL,Rollins  Inc.,Environmental & Facilities Services
+ROP,Roper Technologies,Electronic Equipment & Instruments
+ROST,Ross Stores,Apparel Retail
+RSG,Republic Services,Environmental & Facilities Services
+RTX,RTX Corporation,Aerospace & Defense
+RVTY,Revvity,Health Care Equipment
+SBAC,SBA Communications,Telecom Tower REITs
+SBUX,Starbucks,Restaurants
+SCHW,Charles Schwab Corporation,Investment Banking & Brokerage
+SHW,Sherwin-Williams,Specialty Chemicals
+SJM,J.M. Smucker Company (The),Packaged Foods & Meats
+SLB,Schlumberger,Oil & Gas Equipment & Services
+SMCI,Supermicro,Technology Hardware  Storage & Peripherals
+SNA,Snap-on,Industrial Machinery & Supplies & Components
+SNPS,Synopsys,Application Software
+SO,Southern Company,Electric Utilities
+SOLV,Solventum,Health Care Technology
+SPG,Simon Property Group,Retail REITs
+SPGI,S&P Global,Financial Exchanges & Data
+SRE,Sempra,Multi-Utilities
+STE,Steris,Health Care Equipment
+STLD,Steel Dynamics,Steel
+STT,State Street Corporation,Asset Management & Custody Banks
+STX,Seagate Technology,Technology Hardware  Storage & Peripherals
+STZ,Constellation Brands,Distillers & Vintners
+SW,Smurfit Westrock,Paper & Plastic Packaging Products & Materials
+SWK,Stanley Black & Decker,Industrial Machinery & Supplies & Components
+SWKS,Skyworks Solutions,Semiconductors
+SYF,Synchrony Financial,Consumer Finance
+SYK,Stryker Corporation,Health Care Equipment
+SYY,Sysco,Food Distributors
+T,AT&T,Integrated Telecommunication Services
+TAP,Molson Coors Beverage Company,Brewers
+TDG,TransDigm Group,Aerospace & Defense
+TDY,Teledyne Technologies,Electronic Equipment & Instruments
+TECH,Bio-Techne,Life Sciences Tools & Services
+TEL,TE Connectivity,Electronic Manufacturing Services
+TER,Teradyne,Semiconductor Materials & Equipment
+TFC,Truist Financial,Diversified Banks
+TGT,Target Corporation,Consumer Staples Merchandise Retail
+TJX,TJX Companies,Apparel Retail
+TKO,TKO Group Holdings,Movies & Entertainment
+TMO,Thermo Fisher Scientific,Life Sciences Tools & Services
+TMUS,T-Mobile US,Wireless Telecommunication Services
+TPL,Texas Pacific Land Corporation,Oil & Gas Exploration & Production
+TPR,Tapestry  Inc.,Apparel  Accessories & Luxury Goods
+TRGP,Targa Resources,Oil & Gas Storage & Transportation
+TRMB,Trimble Inc.,Electronic Equipment & Instruments
+TROW,T. Rowe Price,Asset Management & Custody Banks
+TRV,Travelers Companies (The),Property & Casualty Insurance
+TSCO,Tractor Supply,Other Specialty Retail
+TSLA,Tesla  Inc.,Automobile Manufacturers
+TSN,Tyson Foods,Packaged Foods & Meats
+TT,Trane Technologies,Building Products
+TTD,Trade Desk (The),Advertising
+TTWO,Take-Two Interactive,Interactive Home Entertainment
+TXN,Texas Instruments,Semiconductors
+TXT,Textron,Aerospace & Defense
+TYL,Tyler Technologies,Application Software
+UAL,United Airlines Holdings,Passenger Airlines
+UBER,Uber,Passenger Ground Transportation
+UDR,UDR  Inc.,Multi-Family Residential REITs
+UHS,Universal Health Services,Health Care Facilities
+ULTA,Ulta Beauty,Other Specialty Retail
+UNH,UnitedHealth Group,Managed Health Care
+UNP,Union Pacific Corporation,Rail Transportation
+UPS,United Parcel Service,Air Freight & Logistics
+URI,United Rentals,Trading Companies & Distributors
+USB,U.S. Bancorp,Diversified Banks
+V,Visa Inc.,Transaction & Payment Processing Services
+VICI,Vici Properties,Hotel & Resort REITs
+VLO,Valero Energy,Oil & Gas Refining & Marketing
+VLTO,Veralto,Environmental & Facilities Services
+VMC,Vulcan Materials Company,Construction Materials
+VRSK,Verisk Analytics,Research & Consulting Services
+VRSN,Verisign,Internet Services & Infrastructure
+VRTX,Vertex Pharmaceuticals,Biotechnology
+VST,Vistra Corp.,Electric Utilities
+VTR,Ventas,Health Care REITs
+VTRS,Viatris,Pharmaceuticals
+VZ,Verizon,Integrated Telecommunication Services
+WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment
+WAT,Waters Corporation,Life Sciences Tools & Services
+WBD,Warner Bros. Discovery,Broadcasting
+WDAY,Workday  Inc.,Application Software
+WDC,Western Digital,Technology Hardware  Storage & Peripherals
+WEC,WEC Energy Group,Electric Utilities
+WELL,Welltower,Health Care REITs
+WFC,Wells Fargo,Diversified Banks
+WM,Waste Management,Environmental & Facilities Services
+WMB,Williams Companies,Oil & Gas Storage & Transportation
+WMT,Walmart,Consumer Staples Merchandise Retail
+WRB,W. R. Berkley Corporation,Property & Casualty Insurance
+WSM,Williams-Sonoma  Inc.,Homefurnishing Retail
+WST,West Pharmaceutical Services,Health Care Supplies
+WTW,Willis Towers Watson,Insurance Brokers
+WY,Weyerhaeuser,Timber REITs
+WYNN,Wynn Resorts,Casinos & Gaming
+XEL,Xcel Energy,Multi-Utilities
+XOM,ExxonMobil,Integrated Oil & Gas
+XYL,Xylem Inc.,Industrial Machinery & Supplies & Components
+XYZ,Block  Inc.,Transaction & Payment Processing Services
+YUM,Yum! Brands,Restaurants
+ZBH,Zimmer Biomet,Health Care Equipment
+ZBRA,Zebra Technologies,Electronic Equipment & Instruments
+ZTS,Zoetis,Pharmaceuticals

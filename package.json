@@ -1,0 +1,17 @@
+{
+  "name": "sp500-list-daily",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site with daily S&P 500 updater",
+  "scripts": {
+    "serve": "npx serve .",
+    "update:sp500": "node scripts/update_sp500.cjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

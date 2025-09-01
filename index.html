@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>S&P500ListDaily — S&P 500 Daily List</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <!-- Nav -->
+  <header class="nav">
+    <div class="container nav__inner">
+      <div class="brand">S&amp;P500ListDaily</div>
+      <nav class="menu">
+        <a href="#companies">Companies</a>
+        <a href="#about">About</a>
+        <a class="btn btn--primary" href="#jobs" onclick="alert('Jobs page coming soon!')">Explore Jobs</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container hero__inner">
+      <h1>S&amp;P 500 Daily List</h1>
+      <p>Fresh list of S&amp;P 500 constituents — updated daily from Wikipedia.</p>
+      <div class="hero__cta">
+        <a class="btn btn--outline" href="#companies">View Companies</a>
+        <a class="btn btn--primary" href="#jobs" onclick="alert('Jobs page coming soon!')">Explore Jobs</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Companies -->
+  <section id="companies" class="section">
+    <div class="container">
+      <div class="section__head">
+        <h2>S&amp;P 500 Companies</h2>
+        <div class="meta">
+          <span id="meta-count">0 companies</span>
+          <span id="meta-updated">—</span>
+        </div>
+      </div>
+
+      <div class="toolbar">
+        <input id="search" type="search" placeholder="Search by ticker or company name…" />
+        <select id="pageSize">
+          <option>10</option>
+          <option selected>20</option>
+          <option>50</option>
+          <option>100</option>
+        </select>
+      </div>
+
+      <div id="status" class="status" hidden></div>
+
+      <div class="tablewrap">
+        <table class="table" id="companyTable">
+          <thead>
+            <tr>
+              <th data-key="symbol">Ticker</th>
+              <th data-key="name">Company Name</th>
+              <th data-key="sector">Sector</th>
+            </tr>
+          </thead>
+          <tbody id="tbody"></tbody>
+        </table>
+      </div>
+
+      <div class="pager" id="pager"></div>
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="section section--muted">
+    <div class="container">
+      <h2>About</h2>
+      <p>
+        This site (S&amp;P500ListDaily) is an educational project that tracks the current
+        S&amp;P 500 constituents daily from Wikipedia via a GitHub Action. Job listings
+        will be added in the next phase.
+      </p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      © <span id="year"></span> S&amp;P500ListDaily — MVP
+    </div>
+  </footer>
+
+  <script src="assets/js/app.js" defer></script>
+</body>
+</html>
