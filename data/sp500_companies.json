@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-09-08T13:44:15.388Z",
+  "updated_at": "2025-09-09T13:46:14.401Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -196,11 +196,6 @@
       "symbol": "APO",
       "name": "Apollo Global Management",
       "sector": "Asset Management & Custody Banks"
-    },
-    {
-      "symbol": "APP",
-      "name": "AppLovin",
-      "sector": "Application Software"
     },
     {
       "symbol": "APTV",
@@ -618,6 +613,11 @@
       "sector": "Integrated Oil & Gas"
     },
     {
+      "symbol": "CZR",
+      "name": "Caesars Entertainment",
+      "sector": "Casinos & Gaming"
+    },
+    {
       "symbol": "D",
       "name": "Dominion Energy",
       "sector": "Multi-Utilities"
@@ -793,11 +793,6 @@
       "sector": "Managed Health Care"
     },
     {
-      "symbol": "EME",
-      "name": "Emcor",
-      "sector": "Construction & Engineering"
-    },
-    {
       "symbol": "EMN",
       "name": "Eastman Chemical Company",
       "sector": "Specialty Chemicals"
@@ -806,6 +801,11 @@
       "symbol": "EMR",
       "name": "Emerson Electric",
       "sector": "Electrical Components & Equipment"
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "symbol": "EOG",
@@ -1126,11 +1126,6 @@
       "symbol": "HON",
       "name": "Honeywell",
       "sector": "Industrial Conglomerates"
-    },
-    {
-      "symbol": "HOOD",
-      "name": "Robinhood Markets",
-      "sector": "Investment Banking & Brokerage"
     },
     {
       "symbol": "HPE",
@@ -1546,6 +1541,11 @@
       "symbol": "MKC",
       "name": "McCormick & Company",
       "sector": "Packaged Foods & Meats"
+    },
+    {
+      "symbol": "MKTX",
+      "name": "MarketAxess",
+      "sector": "Financial Exchanges & Data"
     },
     {
       "symbol": "MLM",

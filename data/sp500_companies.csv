@@ -38,7 +38,6 @@ APA,APA Corporation,Oil & Gas Exploration & Production
 APD,Air Products,Industrial Gases
 APH,Amphenol,Electronic Components
 APO,Apollo Global Management,Asset Management & Custody Banks
-APP,AppLovin,Application Software
 APTV,Aptiv,Automotive Parts & Equipment
 ARE,Alexandria Real Estate Equities,Office REITs
 ATO,Atmos Energy,Gas Utilities
@@ -122,6 +121,7 @@ CTSH,Cognizant,IT Consulting & Other Services
 CTVA,Corteva,Fertilizers & Agricultural Chemicals
 CVS,CVS Health,Health Care Services
 CVX,Chevron Corporation,Integrated Oil & Gas
+CZR,Caesars Entertainment,Casinos & Gaming
 D,Dominion Energy,Multi-Utilities
 DAL,Delta Air Lines,Passenger Airlines
 DASH,DoorDash,Specialized Consumer Services
@@ -157,9 +157,9 @@ EG,Everest Group,Reinsurance
 EIX,Edison International,Electric Utilities
 EL,Estée Lauder Companies (The),Personal Care Products
 ELV,Elevance Health,Managed Health Care
-EME,Emcor,Construction & Engineering
 EMN,Eastman Chemical Company,Specialty Chemicals
 EMR,Emerson Electric,Electrical Components & Equipment
+ENPH,Enphase Energy,Semiconductor Materials & Equipment
 EOG,EOG Resources,Oil & Gas Exploration & Production
 EPAM,EPAM Systems,IT Consulting & Other Services
 EQIX,Equinix,Data Center REITs
@@ -224,7 +224,6 @@ HII,Huntington Ingalls Industries,Aerospace & Defense
 HLT,Hilton Worldwide,Hotels  Resorts & Cruise Lines
 HOLX,Hologic,Health Care Equipment
 HON,Honeywell,Industrial Conglomerates
-HOOD,Robinhood Markets,Investment Banking & Brokerage
 HPE,Hewlett Packard Enterprise,Technology Hardware  Storage & Peripherals
 HPQ,HP Inc.,Technology Hardware  Storage & Peripherals
 HRL,Hormel Foods,Packaged Foods & Meats
@@ -308,6 +307,7 @@ META,Meta Platforms,Interactive Media & Services
 MGM,MGM Resorts,Casinos & Gaming
 MHK,Mohawk Industries,Home Furnishings
 MKC,McCormick & Company,Packaged Foods & Meats
+MKTX,MarketAxess,Financial Exchanges & Data
 MLM,Martin Marietta Materials,Construction Materials
 MMC,Marsh McLennan,Insurance Brokers
 MMM,3M,Industrial Conglomerates
