@@ -1,0 +1,39 @@
+name: Refresh jobs.json
+
+on:
+  schedule:
+    - cron: "15 9 * * *"   # daily 09:15 UTC (~5:15am ET)
+  workflow_dispatch:        # let you run it manually
+
+permissions:
+  contents: write           # allow committing jobs.json back
+
+concurrency:
+  group: "jobs-refresh"
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - run: npm ci || npm i
+
+      # OPTIONAL: if you also want to refresh your S&P 500 file
+      # - run: npm run update:sp500
+
+      - run: npm run jobs:fetch
+
+      - name: Commit and push jobs.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/jobs.json
+          git commit -m "chore: refresh jobs.json [skip ci]" || echo "No changes"
+          git push

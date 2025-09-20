@@ -1,0 +1,7 @@
+[
+  { "company": "Coinbase", "type": "greenhouse", "token": "coinbase" },
+  { "company": "CVS Health", "type": "workday", "base": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers" },
+  { "company": "Boeing", "type": "workday", "base": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS" },
+  { "company": "Best Buy", "type": "custom", "base": "https://jobs.bestbuy.com/" },
+  { "company": "Amazon", "type": "custom", "base": "https://www.amazon.jobs/" }
+]

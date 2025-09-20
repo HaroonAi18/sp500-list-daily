@@ -44,6 +44,59 @@ async function loadData() {
   }
 }
 
+async function loadJobs() {
+  try {
+    // Path matches what the fetch script writes: ./public/jobs.json
+    const res = await fetch("public/jobs.json", { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status} loading public/jobs.json`);
+    const jobs = await res.json();
+
+    // Update table header to job columns (optional but nicer)
+    const headRow = document.querySelector("#companyTable thead tr");
+    if (headRow) {
+      headRow.innerHTML = `
+        <th>Company</th>
+        <th>Title</th>
+        <th>Location</th>
+        <th>Posted</th>
+        <th>Apply</th>
+      `;
+    }
+
+    // Render jobs in the same tbody
+    els.tbody.innerHTML = jobs.slice(0, 200).map(j => `
+      <tr>
+        <td>${j.company || ""}</td>
+        <td>${j.title || ""}</td>
+        <td>${j.location || ""}</td>
+        <td>${j.postedAt ? new Date(j.postedAt).toLocaleDateString() : ""}</td>
+        <td>
+          ${j.applyUrl ? `<a href="${j.applyUrl}" target="_blank" rel="noopener">Apply</a>` : ""}
+        </td>
+      </tr>
+    `).join("");
+
+    // Update the heading/meta to reflect jobs view (optional)
+    const h2 = document.querySelector("#companies h2");
+    if (h2) h2.textContent = "Jobs (loaded from public/jobs.json)";
+    els.metaCount.textContent = `${jobs.length.toLocaleString()} jobs`;
+    els.metaUpdated.textContent = "";
+  } catch (err) {
+    console.error(err);
+    alert("Could not load jobs. Make sure public/jobs.json exists (run: npm run jobs:fetch).");
+  }
+}
+//////////////////////////////////////////////////////////////////////////////////////
+
+document.querySelectorAll(".js-explore-jobs").forEach(btn => {
+  btn.addEventListener("click", (e) => {
+    e.preventDefault();
+    loadJobs();
+  });
+});
+
+
+
 function showStatus(msg){
   if (!msg){ els.status.hidden = true; els.status.textContent = ""; return; }
   els.status.hidden = false;
@@ -129,5 +182,9 @@ els.headers.forEach(th => {
     applyFilters();
   });
 });
+
+
+
+
 
 loadData();
