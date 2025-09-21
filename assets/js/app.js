@@ -183,6 +183,28 @@ els.headers.forEach(th => {
   });
 });
 
+const backBtn = document.getElementById("backToCompanies");
+if (backBtn) backBtn.addEventListener("click", (e) => {
+  e.preventDefault();
+  // restore original headers
+  const headRow = document.querySelector("#companyTable thead tr");
+  if (headRow) {
+    headRow.innerHTML = `
+      <th data-key="symbol">Ticker</th>
+      <th data-key="name">Company Name</th>
+      <th data-key="sector">Sector</th>
+    `;
+  }
+  // re-wire header click events
+  els.headers = Array.from(document.querySelectorAll("th[data-key]"));
+  els.headers.forEach(th => th.addEventListener("click", () => {
+    const key = th.getAttribute("data-key");
+    if (state.sortKey === key) state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+    else { state.sortKey = key; state.sortDir = "asc"; }
+    applyFilters();
+  }));
+  loadData();
+});
 
 
 
