@@ -1,0 +1,36 @@
+{
+  "added": [
+    {
+      "symbol": "APP",
+      "name": "AppLovin",
+      "sector": "Application Software"
+    },
+    {
+      "symbol": "EME",
+      "name": "Emcor",
+      "sector": "Construction & Engineering"
+    },
+    {
+      "symbol": "HOOD",
+      "name": "Robinhood Markets",
+      "sector": "Investment Banking & Brokerage"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "CZR",
+      "name": "Caesars Entertainment",
+      "sector": "Casinos & Gaming"
+    },
+    {
+      "symbol": "ENPH",
+      "name": "Enphase Energy",
+      "sector": "Semiconductor Materials & Equipment"
+    },
+    {
+      "symbol": "MKTX",
+      "name": "MarketAxess",
+      "sector": "Financial Exchanges & Data"
+    }
+  ]
+}
