@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "SOLS",
+      "name": "Solstice Advanced Materials",
+      "sector": "TBD"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "KMX",
+      "name": "CarMax",
+      "sector": "Automotive Retail"
+    }
+  ]
+}

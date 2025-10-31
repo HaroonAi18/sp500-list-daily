@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-10-30T13:45:39.078Z",
+  "updated_at": "2025-10-31T13:44:21.469Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1358,11 +1358,6 @@
       "sector": "Oil & Gas Storage & Transportation"
     },
     {
-      "symbol": "KMX",
-      "name": "CarMax",
-      "sector": "Automotive Retail"
-    },
-    {
       "symbol": "KO",
       "name": "Coca-Cola Company (The)",
       "sector": "Soft Drinks & Non-alcoholic Beverages"
@@ -2066,6 +2061,11 @@
       "symbol": "SO",
       "name": "Southern Company",
       "sector": "Electric Utilities"
+    },
+    {
+      "symbol": "SOLS",
+      "name": "Solstice Advanced Materials",
+      "sector": "TBD"
     },
     {
       "symbol": "SOLV",
