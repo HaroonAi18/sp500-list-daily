@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-05T13:47:25.548Z",
+  "updated_at": "2025-11-06T13:46:53.001Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -796,11 +796,6 @@
       "symbol": "EME",
       "name": "Emcor",
       "sector": "Construction & Engineering"
-    },
-    {
-      "symbol": "EMN",
-      "name": "Eastman Chemical Company",
-      "sector": "Specialty Chemicals"
     },
     {
       "symbol": "EMR",
@@ -1936,6 +1931,11 @@
       "symbol": "PYPL",
       "name": "PayPal",
       "sector": "Transaction & Payment Processing Services"
+    },
+    {
+      "symbol": "Q",
+      "name": "Qnity Electronics",
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "symbol": "QCOM",

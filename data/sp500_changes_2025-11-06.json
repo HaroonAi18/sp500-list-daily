@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "Q",
+      "name": "Qnity Electronics",
+      "sector": "Semiconductor Materials & Equipment"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "EMN",
+      "name": "Eastman Chemical Company",
+      "sector": "Specialty Chemicals"
+    }
+  ]
+}
