@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-11T13:45:23.501Z",
+  "updated_at": "2025-11-12T13:48:04.964Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -928,11 +928,6 @@
       "sector": "Communications Equipment"
     },
     {
-      "symbol": "FI",
-      "name": "Fiserv",
-      "sector": "Transaction & Payment Processing Services"
-    },
-    {
       "symbol": "FICO",
       "name": "Fair Isaac",
       "sector": "Application Software"
@@ -940,6 +935,11 @@
     {
       "symbol": "FIS",
       "name": "Fidelity National Information Services",
+      "sector": "Transaction & Payment Processing Services"
+    },
+    {
+      "symbol": "FISV",
+      "name": "Fiserv",
       "sector": "Transaction & Payment Processing Services"
     },
     {

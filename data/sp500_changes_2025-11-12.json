@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "FISV",
+      "name": "Fiserv",
+      "sector": "Transaction & Payment Processing Services"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "FI",
+      "name": "Fiserv",
+      "sector": "Transaction & Payment Processing Services"
+    }
+  ]
+}
