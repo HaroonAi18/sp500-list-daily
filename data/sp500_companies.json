@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-28T13:44:25.852Z",
+  "updated_at": "2025-11-29T13:40:54.094Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1226,11 +1226,6 @@
       "symbol": "IP",
       "name": "International Paper",
       "sector": "Paper & Plastic Packaging Products & Materials"
-    },
-    {
-      "symbol": "IPG",
-      "name": "Interpublic Group of Companies (The)",
-      "sector": "Advertising"
     },
     {
       "symbol": "IQV",
