@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-01T13:50:24.923Z",
+  "updated_at": "2025-12-02T13:51:27.908Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -2046,6 +2046,11 @@
       "symbol": "SNA",
       "name": "Snap-on",
       "sector": "Industrial Machinery & Supplies & Components"
+    },
+    {
+      "symbol": "SNDK",
+      "name": "Sandisk",
+      "sector": "Technology Hardware, Storage & Peripherals"
     },
     {
       "symbol": "SNPS",
