@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-11T13:54:00.351Z",
+  "updated_at": "2025-12-12T13:50:27.644Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1296,11 +1296,6 @@
       "symbol": "JPM",
       "name": "JPMorgan Chase",
       "sector": "Diversified Banks"
-    },
-    {
-      "symbol": "K",
-      "name": "Kellanova",
-      "sector": "Packaged Foods & Meats"
     },
     {
       "symbol": "KDP",
