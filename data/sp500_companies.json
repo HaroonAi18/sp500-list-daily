@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-12T13:50:27.644Z",
+  "updated_at": "2025-12-13T13:41:21.335Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -211,6 +211,11 @@
       "symbol": "ARE",
       "name": "Alexandria Real Estate Equities",
       "sector": "Office REITs"
+    },
+    {
+      "symbol": "ARES",
+      "name": "Ares Management",
+      "sector": "Asset Management & Custody Banks"
     },
     {
       "symbol": "ATO",
