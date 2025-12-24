@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-23T13:50:43.812Z",
+  "updated_at": "2025-12-24T13:46:33.246Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1398,11 +1398,6 @@
       "sector": "Industrial Gases"
     },
     {
-      "symbol": "LKQ",
-      "name": "LKQ Corporation",
-      "sector": "Distributors"
-    },
-    {
       "symbol": "LLY",
       "name": "Lilly (Eli)",
       "sector": "Pharmaceuticals"
@@ -1521,11 +1516,6 @@
       "symbol": "MGM",
       "name": "MGM Resorts",
       "sector": "Casinos & Gaming"
-    },
-    {
-      "symbol": "MHK",
-      "name": "Mohawk Industries",
-      "sector": "Home Furnishings"
     },
     {
       "symbol": "MKC",

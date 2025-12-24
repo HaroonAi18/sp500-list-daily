@@ -1,0 +1,15 @@
+{
+  "added": [],
+  "removed": [
+    {
+      "symbol": "LKQ",
+      "name": "LKQ Corporation",
+      "sector": "Distributors"
+    },
+    {
+      "symbol": "MHK",
+      "name": "Mohawk Industries",
+      "sector": "Home Furnishings"
+    }
+  ]
+}
