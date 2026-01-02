@@ -1,0 +1,21 @@
+{
+  "added": [
+    {
+      "symbol": "CRH",
+      "name": "CRH plc",
+      "sector": "Construction Materials"
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana",
+      "sector": "Automotive Retail"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "SOLS",
+      "name": "Solstice Advanced Materials",
+      "sector": "Specialty Chemicals"
+    }
+  ]
+}

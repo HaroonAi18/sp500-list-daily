@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-01T13:48:18.213Z",
+  "updated_at": "2026-01-02T13:47:45.398Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -563,6 +563,11 @@
       "sector": "Multi-Family Residential REITs"
     },
     {
+      "symbol": "CRH",
+      "name": "CRH plc",
+      "sector": "Construction Materials"
+    },
+    {
       "symbol": "CRL",
       "name": "Charles River Laboratories",
       "sector": "Life Sciences Tools & Services"
@@ -611,6 +616,11 @@
       "symbol": "CTVA",
       "name": "Corteva",
       "sector": "Fertilizers & Agricultural Chemicals"
+    },
+    {
+      "symbol": "CVNA",
+      "name": "Carvana",
+      "sector": "Automotive Retail"
     },
     {
       "symbol": "CVS",
@@ -2056,11 +2066,6 @@
       "symbol": "SO",
       "name": "Southern Company",
       "sector": "Electric Utilities"
-    },
-    {
-      "symbol": "SOLS",
-      "name": "Solstice Advanced Materials",
-      "sector": "Specialty Chemicals"
     },
     {
       "symbol": "SOLV",
