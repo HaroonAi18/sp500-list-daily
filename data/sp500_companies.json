@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-01-14T13:54:49.079Z",
+  "updated_at": "2026-01-15T13:55:03.127Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1543,11 +1543,6 @@
       "sector": "Construction Materials"
     },
     {
-      "symbol": "MMC",
-      "name": "Marsh McLennan",
-      "sector": "Insurance Brokers"
-    },
-    {
       "symbol": "MMM",
       "name": "3M",
       "sector": "Industrial Conglomerates"
@@ -1591,6 +1586,11 @@
       "symbol": "MRNA",
       "name": "Moderna",
       "sector": "Biotechnology"
+    },
+    {
+      "symbol": "MRSH",
+      "name": "Marsh McLennan",
+      "sector": "Insurance Brokers"
     },
     {
       "symbol": "MS",

@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "MRSH",
+      "name": "Marsh McLennan",
+      "sector": "Insurance Brokers"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "MMC",
+      "name": "Marsh McLennan",
+      "sector": "Insurance Brokers"
+    }
+  ]
+}
