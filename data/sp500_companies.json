@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-04T14:11:43.254Z",
+  "updated_at": "2026-02-05T14:13:05.824Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -646,11 +646,6 @@
       "symbol": "DASH",
       "name": "DoorDash",
       "sector": "Specialized Consumer Services"
-    },
-    {
-      "symbol": "DAY",
-      "name": "Dayforce",
-      "sector": "Human Resource & Employment Services"
     },
     {
       "symbol": "DD",
