@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-07T13:57:06.870Z",
+  "updated_at": "2026-02-08T13:58:56.781Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -461,6 +461,11 @@
       "symbol": "CI",
       "name": "Cigna",
       "sector": "Health Care Services"
+    },
+    {
+      "symbol": "CIEN",
+      "name": "Ciena",
+      "sector": "Communications Equipment"
     },
     {
       "symbol": "CINF",
