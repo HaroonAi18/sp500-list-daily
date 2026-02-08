@@ -324,20 +324,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7134498",
-    "title": "Compliance Lead Analyst",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-02-06T18:57:36-05:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7134498?gh_jid=7134498",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7309500",
     "title": "Compliance Lead Analyst",
     "department": null,
@@ -346,6 +332,20 @@
     "employmentType": null,
     "postedAt": "2026-02-03T10:54:27-05:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7309500?gh_jid=7309500",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7134498",
+    "title": "Compliance Lead Analyst",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-02-06T18:57:36-05:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7134498?gh_jid=7134498",
     "descriptionHtml": null,
     "tags": []
   },
@@ -394,20 +394,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7422271",
-    "title": "Consumer L&D SME Trainer Lead Analyst",
-    "department": null,
-    "location": "Hyderabad, India",
-    "remote": false,
-    "employmentType": null,
-    "postedAt": "2025-12-10T13:34:44-05:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7422271?gh_jid=7422271",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7545374",
     "title": "Consumer L&D SME Trainer Lead Analyst",
     "department": null,
@@ -416,6 +402,20 @@
     "employmentType": null,
     "postedAt": "2026-01-20T19:10:53-05:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7545374?gh_jid=7545374",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7422271",
+    "title": "Consumer L&D SME Trainer Lead Analyst",
+    "department": null,
+    "location": "Hyderabad, India",
+    "remote": false,
+    "employmentType": null,
+    "postedAt": "2025-12-10T13:34:44-05:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7422271?gh_jid=7422271",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2444,7 +2444,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-02-07T04:32:14-05:00",
+    "postedAt": "2026-02-08T04:32:03-05:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/6855597?gh_jid=6855597",
     "descriptionHtml": null,
     "tags": []
@@ -2738,7 +2738,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-02-07T04:32:26-05:00",
+    "postedAt": "2026-02-08T04:32:09-05:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7595294?gh_jid=7595294",
     "descriptionHtml": null,
     "tags": []
@@ -3586,20 +3586,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "6804253",
-    "title": "TMS Compliance Analyst III",
-    "department": null,
-    "location": "Hyderabad, India",
-    "remote": false,
-    "employmentType": null,
-    "postedAt": "2026-01-30T05:33:11-05:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/6804253?gh_jid=6804253",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "6675542",
     "title": "TMS Compliance Analyst III",
     "department": null,
@@ -3608,6 +3594,20 @@
     "employmentType": null,
     "postedAt": "2025-12-10T13:34:44-05:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/6675542?gh_jid=6675542",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "6804253",
+    "title": "TMS Compliance Analyst III",
+    "department": null,
+    "location": "Hyderabad, India",
+    "remote": false,
+    "employmentType": null,
+    "postedAt": "2026-01-30T05:33:11-05:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/6804253?gh_jid=6804253",
     "descriptionHtml": null,
     "tags": []
   },
