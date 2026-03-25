@@ -1,0 +1,46 @@
+{
+  "added": [
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "sector": "Electronic Components"
+    },
+    {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "sector": "Communications Equipment"
+    },
+    {
+      "symbol": "SATS",
+      "name": "EchoStar",
+      "sector": "Wireless Telecommunication Services"
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "sector": "Electrical Components & Equipment"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "LW",
+      "name": "Lamb Weston",
+      "sector": "Packaged Foods & Meats"
+    },
+    {
+      "symbol": "MOH",
+      "name": "Molina Healthcare",
+      "sector": "Managed Health Care"
+    },
+    {
+      "symbol": "MTCH",
+      "name": "Match Group",
+      "sector": "Interactive Media & Services"
+    },
+    {
+      "symbol": "PAYC",
+      "name": "Paycom",
+      "sector": "Human Resource & Employment Services"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-24T14:38:32.367Z",
+  "updated_at": "2026-03-25T14:38:39.523Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -521,6 +521,11 @@
       "symbol": "COF",
       "name": "Capital One",
       "sector": "Consumer Finance"
+    },
+    {
+      "symbol": "COHR",
+      "name": "Coherent Corp.",
+      "sector": "Electronic Components"
     },
     {
       "symbol": "COIN",
@@ -1413,6 +1418,11 @@
       "sector": "Industrial Gases"
     },
     {
+      "symbol": "LITE",
+      "name": "Lumentum",
+      "sector": "Communications Equipment"
+    },
+    {
       "symbol": "LLY",
       "name": "Lilly (Eli)",
       "sector": "Pharmaceuticals"
@@ -1451,11 +1461,6 @@
       "symbol": "LVS",
       "name": "Las Vegas Sands",
       "sector": "Casinos & Gaming"
-    },
-    {
-      "symbol": "LW",
-      "name": "Lamb Weston",
-      "sector": "Packaged Foods & Meats"
     },
     {
       "symbol": "LYB",
@@ -1558,11 +1563,6 @@
       "sector": "Tobacco"
     },
     {
-      "symbol": "MOH",
-      "name": "Molina Healthcare",
-      "sector": "Managed Health Care"
-    },
-    {
       "symbol": "MOS",
       "name": "Mosaic Company (The)",
       "sector": "Fertilizers & Agricultural Chemicals"
@@ -1616,11 +1616,6 @@
       "symbol": "MTB",
       "name": "M&T Bank",
       "sector": "Regional Banks"
-    },
-    {
-      "symbol": "MTCH",
-      "name": "Match Group",
-      "sector": "Interactive Media & Services"
     },
     {
       "symbol": "MTD",
@@ -1781,11 +1776,6 @@
       "symbol": "PANW",
       "name": "Palo Alto Networks",
       "sector": "Systems Software"
-    },
-    {
-      "symbol": "PAYC",
-      "name": "Paycom",
-      "sector": "Human Resource & Employment Services"
     },
     {
       "symbol": "PAYX",
@@ -2011,6 +2001,11 @@
       "symbol": "RVTY",
       "name": "Revvity",
       "sector": "Health Care Equipment"
+    },
+    {
+      "symbol": "SATS",
+      "name": "EchoStar",
+      "sector": "Wireless Telecommunication Services"
     },
     {
       "symbol": "SBAC",
@@ -2366,6 +2361,11 @@
       "symbol": "VRSN",
       "name": "Verisign",
       "sector": "Internet Services & Infrastructure"
+    },
+    {
+      "symbol": "VRT",
+      "name": "Vertiv",
+      "sector": "Electrical Components & Equipment"
     },
     {
       "symbol": "VRTX",

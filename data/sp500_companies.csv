@@ -103,6 +103,7 @@ CMS,CMS Energy,Multi-Utilities
 CNC,Centene Corporation,Managed Health Care
 CNP,CenterPoint Energy,Multi-Utilities
 COF,Capital One,Consumer Finance
+COHR,Coherent Corp.,Electronic Components
 COIN,Coinbase,Financial Exchanges & Data
 COO,Cooper Companies (The),Health Care Supplies
 COP,ConocoPhillips,Oil & Gas Exploration & Production
@@ -281,6 +282,7 @@ LH,Labcorp,Health Care Services
 LHX,L3Harris,Aerospace & Defense
 LII,Lennox International,Building Products
 LIN,Linde plc,Industrial Gases
+LITE,Lumentum,Communications Equipment
 LLY,Lilly (Eli),Pharmaceuticals
 LMT,Lockheed Martin,Aerospace & Defense
 LNT,Alliant Energy,Electric Utilities
@@ -289,7 +291,6 @@ LRCX,Lam Research,Semiconductor Materials & Equipment
 LULU,Lululemon Athletica,Apparel  Accessories & Luxury Goods
 LUV,Southwest Airlines,Passenger Airlines
 LVS,Las Vegas Sands,Casinos & Gaming
-LW,Lamb Weston,Packaged Foods & Meats
 LYB,LyondellBasell,Specialty Chemicals
 LYV,Live Nation Entertainment,Movies & Entertainment
 MA,Mastercard,Transaction & Payment Processing Services
@@ -310,7 +311,6 @@ MLM,Martin Marietta Materials,Construction Materials
 MMM,3M,Industrial Conglomerates
 MNST,Monster Beverage,Soft Drinks & Non-alcoholic Beverages
 MO,Altria,Tobacco
-MOH,Molina Healthcare,Managed Health Care
 MOS,Mosaic Company (The),Fertilizers & Agricultural Chemicals
 MPC,Marathon Petroleum,Oil & Gas Refining & Marketing
 MPWR,Monolithic Power Systems,Semiconductors
@@ -322,7 +322,6 @@ MSCI,MSCI Inc.,Financial Exchanges & Data
 MSFT,Microsoft,Systems Software
 MSI,Motorola Solutions,Communications Equipment
 MTB,M&T Bank,Regional Banks
-MTCH,Match Group,Interactive Media & Services
 MTD,Mettler Toledo,Life Sciences Tools & Services
 MU,Micron Technology,Semiconductors
 NCLH,Norwegian Cruise Line Holdings,Hotels  Resorts & Cruise Lines
@@ -355,7 +354,6 @@ ORLY,O’Reilly Automotive,Automotive Retail
 OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components
 OXY,Occidental Petroleum,Oil & Gas Exploration & Production
 PANW,Palo Alto Networks,Systems Software
-PAYC,Paycom,Human Resource & Employment Services
 PAYX,Paychex,Human Resource & Employment Services
 PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment
 PCG,PG&E Corporation,Multi-Utilities
@@ -401,6 +399,7 @@ ROST,Ross Stores,Apparel Retail
 RSG,Republic Services,Environmental & Facilities Services
 RTX,RTX Corporation,Aerospace & Defense
 RVTY,Revvity,Health Care Equipment
+SATS,EchoStar,Wireless Telecommunication Services
 SBAC,SBA Communications,Telecom Tower REITs
 SBUX,Starbucks,Restaurants
 SCHW,Charles Schwab Corporation,Investment Banking & Brokerage
@@ -472,6 +471,7 @@ VLTO,Veralto,Environmental & Facilities Services
 VMC,Vulcan Materials Company,Construction Materials
 VRSK,Verisk Analytics,Research & Consulting Services
 VRSN,Verisign,Internet Services & Infrastructure
+VRT,Vertiv,Electrical Components & Equipment
 VRTX,Vertex Pharmaceuticals,Biotechnology
 VST,Vistra Corp.,Electric Utilities
 VTR,Ventas,Health Care REITs
