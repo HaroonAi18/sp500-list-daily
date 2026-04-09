@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "CASY",
+      "name": "Casey's",
+      "sector": "Food Retail"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "HOLX",
+      "name": "Hologic",
+      "sector": "Health Care Equipment"
+    }
+  ]
+}

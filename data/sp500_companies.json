@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-08T14:50:30.148Z",
+  "updated_at": "2026-04-09T15:02:18.310Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -386,6 +386,11 @@
       "symbol": "CARR",
       "name": "Carrier Global",
       "sector": "Building Products"
+    },
+    {
+      "symbol": "CASY",
+      "name": "Casey's",
+      "sector": "Food Retail"
     },
     {
       "symbol": "CAT",
@@ -1136,11 +1141,6 @@
       "symbol": "HLT",
       "name": "Hilton Worldwide",
       "sector": "Hotels, Resorts & Cruise Lines"
-    },
-    {
-      "symbol": "HOLX",
-      "name": "Hologic",
-      "sector": "Health Care Equipment"
     },
     {
       "symbol": "HON",
