@@ -1402,6 +1402,20 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
+    "reqId": "7595047",
+    "title": "Senior Software Engineer, Backend ",
+    "department": null,
+    "location": "Remote - Singapore",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-04-13T00:17:33-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7595047?gh_jid=7595047",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
     "reqId": "7591861",
     "title": "Senior Software Engineer, Backend (Consumer - Advanced Trading)",
     "department": null,
@@ -1410,20 +1424,6 @@
     "employmentType": null,
     "postedAt": "2026-04-10T00:41:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7591861?gh_jid=7591861",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "7595047",
-    "title": "Senior Software Engineer, Backend - Consumer Foundations",
-    "department": null,
-    "location": "Remote - Singapore",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7595047?gh_jid=7595047",
     "descriptionHtml": null,
     "tags": []
   },
