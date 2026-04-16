@@ -100,20 +100,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "6994022",
-    "title": "Associate Manager, Compliance",
-    "department": null,
-    "location": "London, UK",
-    "remote": false,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/6994022?gh_jid=6994022",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7570230",
     "title": "Associate Manager, CX AML Compliance",
     "department": null,
@@ -260,7 +246,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-15T14:30:58-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7643863?gh_jid=7643863",
     "descriptionHtml": null,
     "tags": []
@@ -288,7 +274,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-15T14:47:25-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7602261?gh_jid=7602261",
     "descriptionHtml": null,
     "tags": []
@@ -346,20 +332,6 @@
     "employmentType": null,
     "postedAt": "2026-04-10T00:41:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7768019?gh_jid=7768019",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "7694499",
-    "title": "CX Security Program Manager",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7694499?gh_jid=7694499",
     "descriptionHtml": null,
     "tags": []
   },
@@ -996,20 +968,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7724784",
-    "title": "Senior Institutional Account Manager",
-    "department": null,
-    "location": "Remote - UK",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7724784?gh_jid=7724784",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7724789",
     "title": "Senior Institutional Account Manager",
     "department": null,
@@ -1018,6 +976,20 @@
     "employmentType": null,
     "postedAt": "2026-04-10T00:41:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7724789?gh_jid=7724789",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7724784",
+    "title": "Senior Institutional Account Manager",
+    "department": null,
+    "location": "Remote - UK",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-04-10T00:41:31-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7724784?gh_jid=7724784",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1044,7 +1016,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-15T17:28:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203",
     "descriptionHtml": null,
     "tags": []
@@ -1408,7 +1380,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-15T19:18:41-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7604153?gh_jid=7604153",
     "descriptionHtml": null,
     "tags": []
@@ -1422,7 +1394,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-15T12:33:45-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7576764?gh_jid=7576764",
     "descriptionHtml": null,
     "tags": []
