@@ -106,7 +106,7 @@
     "location": "Charlotte, NC",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-16T16:32:51-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7570230?gh_jid=7570230",
     "descriptionHtml": null,
     "tags": []
@@ -582,7 +582,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-16T21:05:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7792926?gh_jid=7792926",
     "descriptionHtml": null,
     "tags": []
@@ -702,20 +702,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7523987",
-    "title": "Manager, Tax Accounting and Provision",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7523987?gh_jid=7523987",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7574405",
     "title": "Operations Manager",
     "department": null,
@@ -750,7 +736,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-16T15:37:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7484189?gh_jid=7484189",
     "descriptionHtml": null,
     "tags": []
@@ -856,20 +842,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7462964",
-    "title": "Senior Accountant, Asset Management",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7462964?gh_jid=7462964",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7445174",
     "title": "Senior Accountant, Derivatives & Broker Dealer",
     "department": null,
@@ -968,20 +940,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7724789",
-    "title": "Senior Institutional Account Manager",
-    "department": null,
-    "location": "Remote - Singapore",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7724789?gh_jid=7724789",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7724784",
     "title": "Senior Institutional Account Manager",
     "department": null,
@@ -990,6 +948,20 @@
     "employmentType": null,
     "postedAt": "2026-04-10T00:41:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7724784?gh_jid=7724784",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7724789",
+    "title": "Senior Institutional Account Manager",
+    "department": null,
+    "location": "Remote - Singapore",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-04-10T00:41:31-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7724789?gh_jid=7724789",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1632,7 +1604,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
+    "postedAt": "2026-04-17T03:04:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7763274?gh_jid=7763274",
     "descriptionHtml": null,
     "tags": []
@@ -1830,20 +1802,6 @@
     "employmentType": null,
     "postedAt": "2026-04-11T03:53:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7759744?gh_jid=7759744",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "7712294",
-    "title": "Technical Program Manager",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-04-10T00:41:31-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7712294?gh_jid=7712294",
     "descriptionHtml": null,
     "tags": []
   },
