@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T15:39:10.423Z",
+  "updated_at": "2026-05-07T15:40:28.332Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -616,11 +616,6 @@
       "symbol": "CTAS",
       "name": "Cintas",
       "sector": "Diversified Support Services"
-    },
-    {
-      "symbol": "CTRA",
-      "name": "Coterra",
-      "sector": "Oil & Gas Exploration & Production"
     },
     {
       "symbol": "CTSH",
@@ -2331,6 +2326,11 @@
       "symbol": "V",
       "name": "Visa Inc.",
       "sector": "Transaction & Payment Processing Services"
+    },
+    {
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "sector": "Health Care Technology"
     },
     {
       "symbol": "VICI",

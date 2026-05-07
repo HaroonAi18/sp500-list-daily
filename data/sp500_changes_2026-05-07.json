@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "VEEV",
+      "name": "Veeva Systems",
+      "sector": "Health Care Technology"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "CTRA",
+      "name": "Coterra",
+      "sector": "Oil & Gas Exploration & Production"
+    }
+  ]
+}
