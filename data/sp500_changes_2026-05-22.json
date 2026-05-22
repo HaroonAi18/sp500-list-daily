@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "BNY",
+      "name": "BNY Mellon",
+      "sector": "Asset Management & Custody Banks"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "BK",
+      "name": "BNY Mellon",
+      "sector": "Asset Management & Custody Banks"
+    }
+  ]
+}

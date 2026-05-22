@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-21T16:23:38.939Z",
+  "updated_at": "2026-05-22T15:59:41.971Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -308,11 +308,6 @@
       "sector": "Biotechnology"
     },
     {
-      "symbol": "BK",
-      "name": "BNY Mellon",
-      "sector": "Asset Management & Custody Banks"
-    },
-    {
       "symbol": "BKNG",
       "name": "Booking Holdings",
       "sector": "Hotels, Resorts & Cruise Lines"
@@ -336,6 +331,11 @@
       "symbol": "BMY",
       "name": "Bristol Myers Squibb",
       "sector": "Pharmaceuticals"
+    },
+    {
+      "symbol": "BNY",
+      "name": "BNY Mellon",
+      "sector": "Asset Management & Custody Banks"
     },
     {
       "symbol": "BR",
