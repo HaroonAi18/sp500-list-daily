@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7963314",
+    "title": "Test Job",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-05-28T10:59:31-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7963314?gh_jid=7963314",
+    "descriptionHtml": null,
+    "tags": []
+  }
+]
