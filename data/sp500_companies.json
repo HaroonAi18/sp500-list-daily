@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T18:06:23.655Z",
+  "updated_at": "2026-06-04T16:30:17.849Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -828,11 +828,6 @@
       "sector": "Oil & Gas Exploration & Production"
     },
     {
-      "symbol": "EPAM",
-      "name": "EPAM Systems",
-      "sector": "IT Consulting & Other Services"
-    },
-    {
       "symbol": "EQIX",
       "name": "Equinix",
       "sector": "Data Center REITs"
@@ -936,6 +931,11 @@
       "symbol": "FDX",
       "name": "FedEx",
       "sector": "Air Freight & Logistics"
+    },
+    {
+      "symbol": "FDXF",
+      "name": "FedEx Freight",
+      "sector": "Cargo Ground Transportation"
     },
     {
       "symbol": "FE",

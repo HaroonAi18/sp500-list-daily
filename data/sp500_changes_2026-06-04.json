@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "FDXF",
+      "name": "FedEx Freight",
+      "sector": "Cargo Ground Transportation"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "EPAM",
+      "name": "EPAM Systems",
+      "sector": "IT Consulting & Other Services"
+    }
+  ]
+}
