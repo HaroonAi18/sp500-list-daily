@@ -296,20 +296,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7822882",
-    "title": "Head of SOX and Internal Controls",
-    "department": null,
-    "location": "Remote - Canada",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-06-09T12:48:11-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7822882?gh_jid=7822882",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7792926",
     "title": "Head of SOX and Internal Controls",
     "department": null,
@@ -318,6 +304,20 @@
     "employmentType": null,
     "postedAt": "2026-06-09T21:28:42-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7792926?gh_jid=7792926",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7822882",
+    "title": "Head of SOX and Internal Controls",
+    "department": null,
+    "location": "Remote - Canada",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-06-09T12:48:11-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7822882?gh_jid=7822882",
     "descriptionHtml": null,
     "tags": []
   },
@@ -772,20 +772,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7851231",
-    "title": "Senior Software Engineer - Data Platform ",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-06-10T15:52:40-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7812407",
     "title": "Senior Software Engineer - Data Platform ",
     "department": null,
@@ -794,6 +780,20 @@
     "employmentType": null,
     "postedAt": "2026-06-10T15:50:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7851231",
+    "title": "Senior Software Engineer - Data Platform ",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-06-10T15:52:40-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7851231?gh_jid=7851231",
     "descriptionHtml": null,
     "tags": []
   },
@@ -946,7 +946,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-11T00:45:25-04:00",
+    "postedAt": "2026-06-15T00:37:26-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7992822?gh_jid=7992822",
     "descriptionHtml": null,
     "tags": []
