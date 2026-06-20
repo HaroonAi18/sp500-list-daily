@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T16:16:45.838Z",
+  "updated_at": "2026-06-20T15:20:09.361Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -563,11 +563,6 @@
       "sector": "Transaction & Payment Processing Services"
     },
     {
-      "symbol": "CPB",
-      "name": "Campbell's Company (The)",
-      "sector": "Packaged Foods & Meats"
-    },
-    {
       "symbol": "CPRT",
       "name": "Copart",
       "sector": "Diversified Support Services"
@@ -971,6 +966,11 @@
       "symbol": "FIX",
       "name": "Comfort Systems USA",
       "sector": "Construction & Engineering"
+    },
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd.",
+      "sector": "Electronic Manufacturing Services"
     },
     {
       "symbol": "FOX",
@@ -1588,6 +1588,11 @@
       "sector": "Insurance Brokers"
     },
     {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "sector": "Semiconductors"
+    },
+    {
       "symbol": "MS",
       "name": "Morgan Stanley",
       "sector": "Investment Banking & Brokerage"
@@ -1866,11 +1871,6 @@
       "symbol": "PODD",
       "name": "Insulet Corporation",
       "sector": "Health Care Equipment"
-    },
-    {
-      "symbol": "POOL",
-      "name": "Pool Corporation",
-      "sector": "Distributors"
     },
     {
       "symbol": "PPG",

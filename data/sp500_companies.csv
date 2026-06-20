@@ -111,7 +111,6 @@ COP,ConocoPhillips,Oil & Gas Exploration & Production
 COR,Cencora,Health Care Distributors
 COST,Costco,Consumer Staples Merchandise Retail
 CPAY,Corpay,Transaction & Payment Processing Services
-CPB,Campbell's Company (The),Packaged Foods & Meats
 CPRT,Copart,Diversified Support Services
 CPT,Camden Property Trust,Multi-Family Residential REITs
 CRH,CRH plc,Construction Materials
@@ -193,6 +192,7 @@ FIS,Fidelity National Information Services,Transaction & Payment Processing Serv
 FISV,Fiserv,Transaction & Payment Processing Services
 FITB,Fifth Third Bancorp,Regional Banks
 FIX,Comfort Systems USA,Construction & Engineering
+FLEX,Flex Ltd.,Electronic Manufacturing Services
 FOX,Fox Corporation (Class B),Broadcasting
 FOXA,Fox Corporation (Class A),Broadcasting
 FRT,Federal Realty Investment Trust,Retail REITs
@@ -316,6 +316,7 @@ MPWR,Monolithic Power Systems,Semiconductors
 MRK,Merck & Co.,Pharmaceuticals
 MRNA,Moderna,Biotechnology
 MRSH,Marsh McLennan,Insurance Brokers
+MRVL,Marvell Technology,Semiconductors
 MS,Morgan Stanley,Investment Banking & Brokerage
 MSCI,MSCI Inc.,Financial Exchanges & Data
 MSFT,Microsoft,Systems Software
@@ -372,7 +373,6 @@ PNC,PNC Financial Services,Diversified Banks
 PNR,Pentair,Industrial Machinery & Supplies & Components
 PNW,Pinnacle West Capital,Multi-Utilities
 PODD,Insulet Corporation,Health Care Equipment
-POOL,Pool Corporation,Distributors
 PPG,PPG Industries,Specialty Chemicals
 PPL,PPL Corporation,Electric Utilities
 PRU,Prudential Financial,Life & Health Insurance

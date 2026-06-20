@@ -1,0 +1,26 @@
+{
+  "added": [
+    {
+      "symbol": "FLEX",
+      "name": "Flex Ltd.",
+      "sector": "Electronic Manufacturing Services"
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology",
+      "sector": "Semiconductors"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "CPB",
+      "name": "Campbell's Company (The)",
+      "sector": "Packaged Foods & Meats"
+    },
+    {
+      "symbol": "POOL",
+      "name": "Pool Corporation",
+      "sector": "Distributors"
+    }
+  ]
+}
