@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "ECHO",
+      "name": "EchoStar",
+      "sector": "Wireless Telecommunication Services"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "SATS",
+      "name": "EchoStar",
+      "sector": "Wireless Telecommunication Services"
+    }
+  ]
+}

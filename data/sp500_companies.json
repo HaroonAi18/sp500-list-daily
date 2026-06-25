@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T15:39:53.572Z",
+  "updated_at": "2026-06-25T15:57:56.325Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -771,6 +771,11 @@
       "symbol": "EBAY",
       "name": "eBay Inc.",
       "sector": "Broadline Retail"
+    },
+    {
+      "symbol": "ECHO",
+      "name": "EchoStar",
+      "sector": "Wireless Telecommunication Services"
     },
     {
       "symbol": "ECL",
@@ -1996,11 +2001,6 @@
       "symbol": "RVTY",
       "name": "Revvity",
       "sector": "Health Care Equipment"
-    },
-    {
-      "symbol": "SATS",
-      "name": "EchoStar",
-      "sector": "Wireless Telecommunication Services"
     },
     {
       "symbol": "SBAC",
