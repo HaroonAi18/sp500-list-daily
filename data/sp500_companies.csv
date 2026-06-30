@@ -73,7 +73,6 @@ BSX,Boston Scientific,Health Care Equipment
 BX,Blackstone Inc.,Asset Management & Custody Banks
 BXP,BXP  Inc.,Office REITs
 C,Citigroup,Diversified Banks
-CAG,Conagra Brands,Packaged Foods & Meats
 CAH,Cardinal Health,Health Care Distributors
 CARR,Carrier Global,Building Products
 CASY,Casey's,Food Retail
@@ -227,7 +226,8 @@ HD,Home Depot (The),Home Improvement Retail
 HIG,Hartford (The),Property & Casualty Insurance
 HII,Huntington Ingalls Industries,Aerospace & Defense
 HLT,Hilton Worldwide,Hotels  Resorts & Cruise Lines
-HON,Honeywell,Industrial Conglomerates
+HON,Honeywell Technologies,Industrial Conglomerates
+HONA,Honeywell Aerospace,Aerospace & Defense
 HOOD,Robinhood Markets,Investment Banking & Brokerage
 HPE,Hewlett Packard Enterprise,Technology Hardware  Storage & Peripherals
 HPQ,HP Inc.,Technology Hardware  Storage & Peripherals

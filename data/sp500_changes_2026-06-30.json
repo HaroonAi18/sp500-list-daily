@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "HONA",
+      "name": "Honeywell Aerospace",
+      "sector": "Aerospace & Defense"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "CAG",
+      "name": "Conagra Brands",
+      "sector": "Packaged Foods & Meats"
+    }
+  ]
+}
