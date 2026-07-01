@@ -170,6 +170,20 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
+    "reqId": "8031308",
+    "title": "Concierge Specialist IV",
+    "department": null,
+    "location": "Remote - UK",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-06-26T17:47:24-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
     "reqId": "7994498",
     "title": "Concierge Specialist IV",
     "department": null,
@@ -178,20 +192,6 @@
     "employmentType": null,
     "postedAt": "2026-06-23T19:21:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "7994501",
-    "title": "Concierge Specialist IV",
-    "department": null,
-    "location": "Hybrid - Singapore",
-    "remote": false,
-    "employmentType": null,
-    "postedAt": "2026-06-23T19:17:40-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501",
     "descriptionHtml": null,
     "tags": []
   },
@@ -212,14 +212,14 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "8031308",
+    "reqId": "7994501",
     "title": "Concierge Specialist IV",
     "department": null,
-    "location": "Remote - UK",
-    "remote": true,
+    "location": "Hybrid - Singapore",
+    "remote": false,
     "employmentType": null,
-    "postedAt": "2026-06-26T17:47:24-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308",
+    "postedAt": "2026-06-23T19:17:40-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501",
     "descriptionHtml": null,
     "tags": []
   },
@@ -316,7 +316,7 @@
     "location": "Remote - Singapore",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-26T10:30:30-04:00",
+    "postedAt": "2026-06-30T10:33:26-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7962675?gh_jid=7962675",
     "descriptionHtml": null,
     "tags": []
@@ -456,7 +456,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-20T03:32:51-04:00",
+    "postedAt": "2026-07-01T03:05:17-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7967336?gh_jid=7967336",
     "descriptionHtml": null,
     "tags": []
@@ -554,7 +554,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-24T00:18:04-04:00",
+    "postedAt": "2026-06-30T19:03:03-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8022718?gh_jid=8022718",
     "descriptionHtml": null,
     "tags": []
@@ -568,7 +568,7 @@
     "location": "Remote - Bermuda",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-24T00:18:04-04:00",
+    "postedAt": "2026-06-30T19:03:03-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7927054?gh_jid=7927054",
     "descriptionHtml": null,
     "tags": []
@@ -652,7 +652,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-20T03:33:12-04:00",
+    "postedAt": "2026-07-01T03:05:18-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8008594?gh_jid=8008594",
     "descriptionHtml": null,
     "tags": []
@@ -862,7 +862,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-20T03:32:50-04:00",
+    "postedAt": "2026-07-01T03:05:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7967333?gh_jid=7967333",
     "descriptionHtml": null,
     "tags": []
@@ -1346,6 +1346,20 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
+    "reqId": "8022068",
+    "title": "Software Engineer",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-06-30T14:24:29-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
     "reqId": "8003605",
     "title": "Software Engineer",
     "department": null,
@@ -1374,20 +1388,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "7958901",
-    "title": "Software Engineer, Enterprise Apps",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-06-23T11:22:50-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "8024814",
     "title": "Software Engineer, Enterprise Apps",
     "department": null,
@@ -1396,6 +1396,20 @@
     "employmentType": null,
     "postedAt": "2026-06-23T18:40:33-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "7958901",
+    "title": "Software Engineer, Enterprise Apps",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-06-23T11:22:50-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901",
     "descriptionHtml": null,
     "tags": []
   },
