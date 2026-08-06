@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "FERG",
+      "name": "Ferguson Enterprises",
+      "sector": "Building Products"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "EA",
+      "name": "Electronic Arts",
+      "sector": "Interactive Home Entertainment"
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-05T15:34:56.482Z",
+  "updated_at": "2026-08-06T15:37:20.215Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -758,11 +758,6 @@
       "sector": "Health Care Equipment"
     },
     {
-      "symbol": "EA",
-      "name": "Electronic Arts",
-      "sector": "Interactive Home Entertainment"
-    },
-    {
       "symbol": "EBAY",
       "name": "eBay Inc.",
       "sector": "Broadline Retail"
@@ -936,6 +931,11 @@
       "symbol": "FE",
       "name": "FirstEnergy",
       "sector": "Electric Utilities"
+    },
+    {
+      "symbol": "FERG",
+      "name": "Ferguson Enterprises",
+      "sector": "Building Products"
     },
     {
       "symbol": "FFIV",
