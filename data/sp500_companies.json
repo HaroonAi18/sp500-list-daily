@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-06T15:37:20.215Z",
+  "updated_at": "2026-08-07T14:29:29.399Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -200,7 +200,7 @@
     {
       "symbol": "APP",
       "name": "AppLovin",
-      "sector": "Application Software"
+      "sector": "Advertising"
     },
     {
       "symbol": "APTV",
@@ -650,7 +650,7 @@
     {
       "symbol": "DD",
       "name": "DuPont",
-      "sector": "Specialty Chemicals"
+      "sector": "Industrial Conglomerates"
     },
     {
       "symbol": "DDOG",
