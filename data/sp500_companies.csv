@@ -319,7 +319,7 @@ MRNA,Moderna,Biotechnology
 MRSH,Marsh McLennan,Insurance Brokers
 MRVL,Marvell Technology,Semiconductors
 MS,Morgan Stanley,Investment Banking & Brokerage
-MSCI,MSCI Inc.,Financial Exchanges & Data
+MSCI,MSCI,Financial Exchanges & Data
 MSFT,Microsoft,Systems Software
 MSI,Motorola Solutions,Communications Equipment
 MTB,M&T Bank,Regional Banks
@@ -351,7 +351,7 @@ OKE,Oneok,Oil & Gas Storage & Transportation
 OMC,Omnicom Group,Advertising
 ON,ON Semiconductor,Semiconductors
 ORCL,Oracle Corporation,Application Software
-ORLY,O’Reilly Automotive,Automotive Retail
+ORLY,O'Reilly Automotive,Automotive Retail
 OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components
 OXY,Occidental Petroleum,Oil & Gas Exploration & Production
 PANW,Palo Alto Networks,Systems Software
@@ -391,7 +391,7 @@ REGN,Regeneron Pharmaceuticals,Biotechnology
 RF,Regions Financial Corporation,Regional Banks
 RJF,Raymond James Financial,Investment Banking & Brokerage
 RL,Ralph Lauren Corporation,Apparel  Accessories & Luxury Goods
-RMD,ResMed,Health Care Equipment
+RMD,ResMed|,Health Care Equipment
 ROK,Rockwell Automation,Electrical Components & Equipment
 ROL,Rollins  Inc.,Environmental & Facilities Services
 ROP,Roper Technologies,Electronic Equipment & Instruments
