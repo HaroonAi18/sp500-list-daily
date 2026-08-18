@@ -1,0 +1,26 @@
+{
+  "added": [
+    {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "sector": ""
+    },
+    {
+      "symbol": "VMRK",
+      "name": "Vivmark Residential",
+      "sector": "Multi-Family Residential REITs"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "AVB",
+      "name": "AvalonBay Communities",
+      "sector": "Multi-Family Residential REITs"
+    },
+    {
+      "symbol": "EQR",
+      "name": "Equity Residential",
+      "sector": "Multi-Family Residential REITs"
+    }
+  ]
+}

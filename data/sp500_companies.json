@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T13:58:12.478Z",
+  "updated_at": "2026-08-18T14:02:44.773Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -221,11 +221,6 @@
       "symbol": "ATO",
       "name": "Atmos Energy",
       "sector": "Gas Utilities"
-    },
-    {
-      "symbol": "AVB",
-      "name": "AvalonBay Communities",
-      "sector": "Multi-Family Residential REITs"
     },
     {
       "symbol": "AVGO",
@@ -821,11 +816,6 @@
       "symbol": "EQIX",
       "name": "Equinix",
       "sector": "Data Center REITs"
-    },
-    {
-      "symbol": "EQR",
-      "name": "Equity Residential",
-      "sector": "Multi-Family Residential REITs"
     },
     {
       "symbol": "EQT",
@@ -1938,6 +1928,11 @@
       "sector": "Hotels, Resorts & Cruise Lines"
     },
     {
+      "symbol": "RDDT",
+      "name": "Reddit",
+      "sector": ""
+    },
+    {
       "symbol": "REG",
       "name": "Regency Centers",
       "sector": "Retail REITs"
@@ -2351,6 +2346,11 @@
       "symbol": "VMC",
       "name": "Vulcan Materials Company",
       "sector": "Construction Materials"
+    },
+    {
+      "symbol": "VMRK",
+      "name": "Vivmark Residential",
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "symbol": "VRSK",

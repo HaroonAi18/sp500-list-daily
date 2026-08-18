@@ -43,7 +43,6 @@ APTV,Aptiv,Automotive Parts & Equipment
 ARE,Alexandria Real Estate Equities,Office REITs
 ARES,Ares Management,Asset Management & Custody Banks
 ATO,Atmos Energy,Gas Utilities
-AVB,AvalonBay Communities,Multi-Family Residential REITs
 AVGO,Broadcom,Semiconductors
 AVY,Avery Dennison,Paper & Plastic Packaging Products & Materials
 AWK,American Water Works,Water Utilities
@@ -163,7 +162,6 @@ EME,Emcor,Construction & Engineering
 EMR,Emerson Electric,Electrical Components & Equipment
 EOG,EOG Resources,Oil & Gas Exploration & Production
 EQIX,Equinix,Data Center REITs
-EQR,Equity Residential,Multi-Family Residential REITs
 EQT,EQT Corporation,Oil & Gas Exploration & Production
 ERIE,Erie Indemnity,Insurance Brokers
 ES,Eversource Energy,Electric Utilities
@@ -386,6 +384,7 @@ PYPL,PayPal,Transaction & Payment Processing Services
 Q,Qnity Electronics,Semiconductor Materials & Equipment
 QCOM,Qualcomm,Semiconductors
 RCL,Royal Caribbean Group,Hotels  Resorts & Cruise Lines
+RDDT,Reddit,
 REG,Regency Centers,Retail REITs
 REGN,Regeneron Pharmaceuticals,Biotechnology
 RF,Regions Financial Corporation,Regional Banks
@@ -469,6 +468,7 @@ VICI,Vici Properties,Hotel & Resort REITs
 VLO,Valero Energy,Oil & Gas Refining & Marketing
 VLTO,Veralto,Environmental & Facilities Services
 VMC,Vulcan Materials Company,Construction Materials
+VMRK,Vivmark Residential,Multi-Family Residential REITs
 VRSK,Verisk Analytics,Research & Consulting Services
 VRSN,Verisign,Internet Services & Infrastructure
 VRT,Vertiv,Electrical Components & Equipment
