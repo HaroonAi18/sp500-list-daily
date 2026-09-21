@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T16:53:25.262Z",
+  "updated_at": "2026-09-21T18:49:55.182Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -283,6 +283,11 @@
       "sector": "Health Care Equipment"
     },
     {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "sector": "Electrical Components & Equipment"
+    },
+    {
       "symbol": "BEN",
       "name": "Franklin Resources",
       "sector": "Asset Management & Custody Banks"
@@ -311,11 +316,6 @@
       "symbol": "BKR",
       "name": "Baker Hughes",
       "sector": "Oil & Gas Equipment & Services"
-    },
-    {
-      "symbol": "BLDR",
-      "name": "Builders FirstSource",
-      "sector": "Building Products"
     },
     {
       "symbol": "BLK",
@@ -1218,6 +1218,11 @@
       "sector": "Specialty Chemicals"
     },
     {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "sector": "Life Sciences Tools & Services"
+    },
+    {
       "symbol": "INCY",
       "name": "Incyte",
       "sector": "Biotechnology"
@@ -1768,6 +1773,11 @@
       "sector": "Oil & Gas Exploration & Production"
     },
     {
+      "symbol": "P",
+      "name": "Everpure",
+      "sector": "Technology Hardware, Storage & Peripherals"
+    },
+    {
       "symbol": "PANW",
       "name": "Palo Alto Networks",
       "sector": "Systems Software"
@@ -2133,11 +2143,6 @@
       "sector": "Integrated Telecommunication Services"
     },
     {
-      "symbol": "TAP",
-      "name": "Molson Coors Beverage Company",
-      "sector": "Brewers"
-    },
-    {
       "symbol": "TDG",
       "name": "TransDigm Group",
       "sector": "Aerospace & Defense"
@@ -2241,11 +2246,6 @@
       "symbol": "TT",
       "name": "Trane Technologies",
       "sector": "Building Products"
-    },
-    {
-      "symbol": "TTD",
-      "name": "Trade Desk (The)",
-      "sector": "Advertising"
     },
     {
       "symbol": "TTWO",

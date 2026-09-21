@@ -1,0 +1,36 @@
+{
+  "added": [
+    {
+      "symbol": "BE",
+      "name": "Bloom Energy",
+      "sector": "Electrical Components & Equipment"
+    },
+    {
+      "symbol": "ILMN",
+      "name": "Illumina, Inc.",
+      "sector": "Life Sciences Tools & Services"
+    },
+    {
+      "symbol": "P",
+      "name": "Everpure",
+      "sector": "Technology Hardware, Storage & Peripherals"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "BLDR",
+      "name": "Builders FirstSource",
+      "sector": "Building Products"
+    },
+    {
+      "symbol": "TAP",
+      "name": "Molson Coors Beverage Company",
+      "sector": "Brewers"
+    },
+    {
+      "symbol": "TTD",
+      "name": "Trade Desk (The)",
+      "sector": "Advertising"
+    }
+  ]
+}

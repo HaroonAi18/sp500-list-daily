@@ -55,13 +55,13 @@ BALL,Ball Corporation,Metal  Glass & Plastic Containers
 BAX,Baxter International,Health Care Equipment
 BBY,Best Buy,Computer & Electronics Retail
 BDX,Becton Dickinson,Health Care Equipment
+BE,Bloom Energy,Electrical Components & Equipment
 BEN,Franklin Resources,Asset Management & Custody Banks
 BF.B,Brown–Forman,Distillers & Vintners
 BG,Bunge Global,Agricultural Products & Services
 BIIB,Biogen,Biotechnology
 BKNG,Booking Holdings,Hotels  Resorts & Cruise Lines
 BKR,Baker Hughes,Oil & Gas Equipment & Services
-BLDR,Builders FirstSource,Building Products
 BLK,BlackRock,Asset Management & Custody Banks
 BMY,Bristol Myers Squibb,Pharmaceuticals
 BNY,BNY Mellon,Asset Management & Custody Banks
@@ -242,6 +242,7 @@ ICE,Intercontinental Exchange,Financial Exchanges & Data
 IDXX,Idexx Laboratories,Health Care Equipment
 IEX,IDEX Corporation,Industrial Machinery & Supplies & Components
 IFF,International Flavors & Fragrances,Specialty Chemicals
+ILMN,Illumina  Inc.,Life Sciences Tools & Services
 INCY,Incyte,Biotechnology
 INTC,Intel,Semiconductors
 INTU,Intuit,Application Software
@@ -352,6 +353,7 @@ ORCL,Oracle Corporation,Application Software
 ORLY,O'Reilly Automotive,Automotive Retail
 OTIS,Otis Worldwide,Industrial Machinery & Supplies & Components
 OXY,Occidental Petroleum,Oil & Gas Exploration & Production
+P,Everpure,Technology Hardware  Storage & Peripherals
 PANW,Palo Alto Networks,Systems Software
 PAYX,Paychex,Human Resource & Employment Services
 PCAR,Paccar,Construction Machinery & Heavy Transportation Equipment
@@ -425,7 +427,6 @@ SYF,Synchrony Financial,Consumer Finance
 SYK,Stryker Corporation,Health Care Equipment
 SYY,Sysco,Food Distributors
 T,AT&T,Integrated Telecommunication Services
-TAP,Molson Coors Beverage Company,Brewers
 TDG,TransDigm Group,Aerospace & Defense
 TDY,Teledyne Technologies,Electronic Equipment & Instruments
 TECH,Bio-Techne,Life Sciences Tools & Services
@@ -447,7 +448,6 @@ TSCO,Tractor Supply,Other Specialty Retail
 TSLA,Tesla  Inc.,Automobile Manufacturers
 TSN,Tyson Foods,Packaged Foods & Meats
 TT,Trane Technologies,Building Products
-TTD,Trade Desk (The),Advertising
 TTWO,Take-Two Interactive,Interactive Home Entertainment
 TXN,Texas Instruments,Semiconductors
 TXT,Textron,Aerospace & Defense
