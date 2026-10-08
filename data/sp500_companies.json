@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T19:25:08.954Z",
+  "updated_at": "2026-10-08T19:20:04.319Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -606,11 +606,6 @@
       "symbol": "CTSH",
       "name": "Cognizant",
       "sector": "IT Consulting & Other Services"
-    },
-    {
-      "symbol": "CTVA",
-      "name": "Corteva",
-      "sector": "Fertilizers & Agricultural Chemicals"
     },
     {
       "symbol": "CVNA",
@@ -1898,11 +1893,6 @@
       "sector": "Self-Storage REITs"
     },
     {
-      "symbol": "PSKY",
-      "name": "Paramount Skydance Corporation",
-      "sector": "Movies & Entertainment"
-    },
-    {
       "symbol": "PSX",
       "name": "Phillips 66",
       "sector": "Oil & Gas Refining & Marketing"
@@ -2031,6 +2021,11 @@
       "symbol": "SJM",
       "name": "J.M. Smucker Company (The)",
       "sector": "Packaged Foods & Meats"
+    },
+    {
+      "symbol": "SKYD",
+      "name": "Paramount Skydance Corporation",
+      "sector": "Movies & Entertainment"
     },
     {
       "symbol": "SLB",
@@ -2253,6 +2248,11 @@
       "sector": "Interactive Home Entertainment"
     },
     {
+      "symbol": "TWLO",
+      "name": "Twilio",
+      "sector": "Systems Software"
+    },
+    {
       "symbol": "TXN",
       "name": "Texas Instruments",
       "sector": "Semiconductors"
@@ -2388,6 +2388,11 @@
       "sector": "Pharmaceuticals"
     },
     {
+      "symbol": "VYLR",
+      "name": "Vylor",
+      "sector": "Agricultural Products & Services"
+    },
+    {
       "symbol": "VZ",
       "name": "Verizon",
       "sector": "Integrated Telecommunication Services"
@@ -2401,11 +2406,6 @@
       "symbol": "WAT",
       "name": "Waters Corporation",
       "sector": "Life Sciences Tools & Services"
-    },
-    {
-      "symbol": "WBD",
-      "name": "Warner Bros. Discovery",
-      "sector": "Broadcasting"
     },
     {
       "symbol": "WDAY",

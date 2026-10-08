@@ -1,0 +1,36 @@
+{
+  "added": [
+    {
+      "symbol": "SKYD",
+      "name": "Paramount Skydance Corporation",
+      "sector": "Movies & Entertainment"
+    },
+    {
+      "symbol": "TWLO",
+      "name": "Twilio",
+      "sector": "Systems Software"
+    },
+    {
+      "symbol": "VYLR",
+      "name": "Vylor",
+      "sector": "Agricultural Products & Services"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "CTVA",
+      "name": "Corteva",
+      "sector": "Fertilizers & Agricultural Chemicals"
+    },
+    {
+      "symbol": "PSKY",
+      "name": "Paramount Skydance Corporation",
+      "sector": "Movies & Entertainment"
+    },
+    {
+      "symbol": "WBD",
+      "name": "Warner Bros. Discovery",
+      "sector": "Broadcasting"
+    }
+  ]
+}

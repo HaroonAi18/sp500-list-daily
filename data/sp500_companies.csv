@@ -120,7 +120,6 @@ CSGP,CoStar Group,Real Estate Services
 CSX,CSX Corporation,Rail Transportation
 CTAS,Cintas,Diversified Support Services
 CTSH,Cognizant,IT Consulting & Other Services
-CTVA,Corteva,Fertilizers & Agricultural Chemicals
 CVNA,Carvana,Automotive Retail
 CVS,CVS Health,Health Care Services
 CVX,Chevron Corporation,Integrated Oil & Gas
@@ -378,7 +377,6 @@ PPG,PPG Industries,Specialty Chemicals
 PPL,PPL Corporation,Electric Utilities
 PRU,Prudential Financial,Life & Health Insurance
 PSA,Public Storage,Self-Storage REITs
-PSKY,Paramount Skydance Corporation,Movies & Entertainment
 PSX,Phillips 66,Oil & Gas Refining & Marketing
 PTC,PTC Inc.,Application Software
 PWR,Quanta Services,Construction & Engineering
@@ -405,6 +403,7 @@ SBUX,Starbucks,Restaurants
 SCHW,Charles Schwab Corporation,Investment Banking & Brokerage
 SHW,Sherwin-Williams,Specialty Chemicals
 SJM,J.M. Smucker Company (The),Packaged Foods & Meats
+SKYD,Paramount Skydance Corporation,Movies & Entertainment
 SLB,Schlumberger,Oil & Gas Equipment & Services
 SMCI,Supermicro,Technology Hardware  Storage & Peripherals
 SNA,Snap-on,Industrial Machinery & Supplies & Components
@@ -449,6 +448,7 @@ TSLA,Tesla  Inc.,Automobile Manufacturers
 TSN,Tyson Foods,Packaged Foods & Meats
 TT,Trane Technologies,Building Products
 TTWO,Take-Two Interactive,Interactive Home Entertainment
+TWLO,Twilio,Systems Software
 TXN,Texas Instruments,Semiconductors
 TXT,Textron,Aerospace & Defense
 TYL,Tyler Technologies,Application Software
@@ -476,10 +476,10 @@ VRTX,Vertex Pharmaceuticals,Biotechnology
 VST,Vistra Corp.,Electric Utilities
 VTR,Ventas,Health Care REITs
 VTRS,Viatris,Pharmaceuticals
+VYLR,Vylor,Agricultural Products & Services
 VZ,Verizon,Integrated Telecommunication Services
 WAB,Wabtec,Construction Machinery & Heavy Transportation Equipment
 WAT,Waters Corporation,Life Sciences Tools & Services
-WBD,Warner Bros. Discovery,Broadcasting
 WDAY,Workday  Inc.,Application Software
 WDC,Western Digital,Technology Hardware  Storage & Peripherals
 WEC,WEC Energy Group,Electric Utilities
