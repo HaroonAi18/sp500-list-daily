@@ -8,22 +8,8 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-22T13:02:37-04:00",
+    "postedAt": "2026-10-13T19:50:16-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175363?gh_jid=8175363",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8053751",
-    "title": "Accountant, Cyprus",
-    "department": null,
-    "location": "Remote - Cyprus",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-24T13:18:17-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8053751?gh_jid=8053751",
     "descriptionHtml": null,
     "tags": []
   },
@@ -36,22 +22,8 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:28:47-04:00",
+    "postedAt": "2026-10-13T19:51:20-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8173991?gh_jid=8173991",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8093264",
-    "title": "Accounting Manager, GL Operations & Intercompany",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-28T13:18:44-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
     "descriptionHtml": null,
     "tags": []
   },
@@ -64,8 +36,22 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:19-04:00",
+    "postedAt": "2026-10-13T19:41:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7822885?gh_jid=7822885",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8093264",
+    "title": "Accounting Manager, GL Operations & Intercompany",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:40:58-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
     "descriptionHtml": null,
     "tags": []
   },
@@ -78,7 +64,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-03T16:17:49-04:00",
+    "postedAt": "2026-10-13T19:38:44-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7532645?gh_jid=7532645",
     "descriptionHtml": null,
     "tags": []
@@ -92,7 +78,7 @@
     "location": "Remote - Abu Dhabi",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:35-04:00",
+    "postedAt": "2026-10-13T19:45:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8164862?gh_jid=8164862",
     "descriptionHtml": null,
     "tags": []
@@ -101,13 +87,27 @@
     "source": "greenhouse",
     "company": "Coinbase",
     "reqId": "8168175",
-    "title": "Analyst, Privacy",
+    "title": "Analyst, Privacy (Incident Management)",
     "department": null,
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-01T12:18:20-04:00",
+    "postedAt": "2026-10-13T20:03:14-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8280209",
+    "title": "Analyst, Privacy (Privacy Assessments)",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T20:12:39-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8280209?gh_jid=8280209",
     "descriptionHtml": null,
     "tags": []
   },
@@ -120,7 +120,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-30T17:16:00-04:00",
+    "postedAt": "2026-10-13T19:53:09-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
     "descriptionHtml": null,
     "tags": []
@@ -142,28 +142,28 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "8212923",
-    "title": "Associate General Counsel, Privacy",
-    "department": null,
-    "location": "Remote - UK",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-28T01:38:40-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "8227393",
     "title": "Associate General Counsel, Privacy",
     "department": null,
     "location": "Remote - Ireland",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:40-04:00",
+    "postedAt": "2026-10-13T19:46:09-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8212923",
+    "title": "Associate General Counsel, Privacy",
+    "department": null,
+    "location": "Remote - UK",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:46:09-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
     "descriptionHtml": null,
     "tags": []
   },
@@ -176,7 +176,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:42-04:00",
+    "postedAt": "2026-10-13T19:47:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987",
     "descriptionHtml": null,
     "tags": []
@@ -204,7 +204,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T15:44:20-04:00",
+    "postedAt": "2026-10-13T19:55:17-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775",
     "descriptionHtml": null,
     "tags": []
@@ -218,7 +218,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T15:45:07-04:00",
+    "postedAt": "2026-10-13T19:55:06-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8249920?gh_jid=8249920",
     "descriptionHtml": null,
     "tags": []
@@ -232,7 +232,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:37:53-04:00",
+    "postedAt": "2026-10-13T19:51:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175366?gh_jid=8175366",
     "descriptionHtml": null,
     "tags": []
@@ -260,7 +260,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:38-04:00",
+    "postedAt": "2026-10-13T19:41:45-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8238573?gh_jid=8238573",
     "descriptionHtml": null,
     "tags": []
@@ -274,7 +274,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-18T10:04:09-04:00",
+    "postedAt": "2026-10-13T19:45:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316",
     "descriptionHtml": null,
     "tags": []
@@ -288,7 +288,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-01T13:03:03-04:00",
+    "postedAt": "2026-10-13T19:40:56-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7746572?gh_jid=7746572",
     "descriptionHtml": null,
     "tags": []
@@ -302,7 +302,7 @@
     "location": "Manila, Philippines",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:23-04:00",
+    "postedAt": "2026-10-13T19:40:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7724777?gh_jid=7724777",
     "descriptionHtml": null,
     "tags": []
@@ -316,7 +316,7 @@
     "location": "Hybrid - Luxembourg",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:09:00-04:00",
+    "postedAt": "2026-10-13T19:38:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7182060?gh_jid=7182060",
     "descriptionHtml": null,
     "tags": []
@@ -330,7 +330,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-24T14:55:42-04:00",
+    "postedAt": "2026-10-13T19:54:36-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
     "descriptionHtml": null,
     "tags": []
@@ -344,7 +344,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T13:56:22-04:00",
+    "postedAt": "2026-10-13T19:46:47-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8232451?gh_jid=8232451",
     "descriptionHtml": null,
     "tags": []
@@ -358,7 +358,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-21T06:19:15-04:00",
+    "postedAt": "2026-10-13T19:43:47-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8064692?gh_jid=8064692",
     "descriptionHtml": null,
     "tags": []
@@ -372,7 +372,7 @@
     "location": "Hybrid - London, UK",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:58-04:00",
+    "postedAt": "2026-10-13T19:42:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308",
     "descriptionHtml": null,
     "tags": []
@@ -386,7 +386,7 @@
     "location": "Hybrid - Singapore",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:55-04:00",
+    "postedAt": "2026-10-13T19:42:01-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
     "descriptionHtml": null,
     "tags": []
@@ -400,7 +400,7 @@
     "location": "Hybrid - Singapore",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:08-04:00",
+    "postedAt": "2026-10-13T19:42:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7994501?gh_jid=7994501",
     "descriptionHtml": null,
     "tags": []
@@ -414,7 +414,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T13:35:12-04:00",
+    "postedAt": "2026-10-13T19:54:10-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8238602?gh_jid=8238602",
     "descriptionHtml": null,
     "tags": []
@@ -428,7 +428,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-22T21:47:41-04:00",
+    "postedAt": "2026-10-13T19:43:11-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8030594?gh_jid=8030594",
     "descriptionHtml": null,
     "tags": []
@@ -456,7 +456,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-07-22T03:22:26-04:00",
+    "postedAt": "2026-10-13T19:38:10-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7606826?gh_jid=7606826",
     "descriptionHtml": null,
     "tags": []
@@ -470,7 +470,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-07T19:33:07-04:00",
+    "postedAt": "2026-10-13T19:44:03-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356",
     "descriptionHtml": null,
     "tags": []
@@ -484,7 +484,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-10T13:38:50-04:00",
+    "postedAt": "2026-10-13T19:51:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175369?gh_jid=8175369",
     "descriptionHtml": null,
     "tags": []
@@ -498,7 +498,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T17:35:25-04:00",
+    "postedAt": "2026-10-13T19:56:50-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8240375?gh_jid=8240375",
     "descriptionHtml": null,
     "tags": []
@@ -512,7 +512,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-09T10:44:40-04:00",
+    "postedAt": "2026-10-13T19:50:52-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175435?gh_jid=8175435",
     "descriptionHtml": null,
     "tags": []
@@ -540,7 +540,7 @@
     "location": "Hybrid - San Francisco, CA",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:19:13-04:00",
+    "postedAt": "2026-10-13T19:52:50-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459",
     "descriptionHtml": null,
     "tags": []
@@ -554,7 +554,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-30T17:15:26-04:00",
+    "postedAt": "2026-10-13T19:52:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462",
     "descriptionHtml": null,
     "tags": []
@@ -568,7 +568,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-24T16:32:19-04:00",
+    "postedAt": "2026-10-13T19:41:17-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8001778?gh_jid=8001778",
     "descriptionHtml": null,
     "tags": []
@@ -582,7 +582,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-15T21:34:20-04:00",
+    "postedAt": "2026-10-13T19:44:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444",
     "descriptionHtml": null,
     "tags": []
@@ -596,7 +596,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-22T13:02:39-04:00",
+    "postedAt": "2026-10-13T19:50:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175429?gh_jid=8175429",
     "descriptionHtml": null,
     "tags": []
@@ -610,7 +610,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T14:16:35-04:00",
+    "postedAt": "2026-10-13T19:43:50-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031",
     "descriptionHtml": null,
     "tags": []
@@ -638,7 +638,7 @@
     "location": "Remote - Luxembourg",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-07T19:33:12-04:00",
+    "postedAt": "2026-10-13T19:54:51-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8233945?gh_jid=8233945",
     "descriptionHtml": null,
     "tags": []
@@ -652,7 +652,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T18:17:45-04:00",
+    "postedAt": "2026-10-13T19:56:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8238576?gh_jid=8238576",
     "descriptionHtml": null,
     "tags": []
@@ -666,7 +666,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-05T15:46:43-04:00",
+    "postedAt": "2026-10-13T19:45:54-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032",
     "descriptionHtml": null,
     "tags": []
@@ -680,7 +680,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-09T17:18:26-04:00",
+    "postedAt": "2026-10-13T19:45:11-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
     "descriptionHtml": null,
     "tags": []
@@ -694,7 +694,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-14T17:33:09-04:00",
+    "postedAt": "2026-10-13T19:44:09-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
     "descriptionHtml": null,
     "tags": []
@@ -708,7 +708,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-09T13:06:23-04:00",
+    "postedAt": "2026-10-13T19:51:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510",
     "descriptionHtml": null,
     "tags": []
@@ -722,7 +722,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-14T17:33:06-04:00",
+    "postedAt": "2026-10-13T19:43:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8060884?gh_jid=8060884",
     "descriptionHtml": null,
     "tags": []
@@ -736,7 +736,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:11-04:00",
+    "postedAt": "2026-10-13T19:42:16-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8070046?gh_jid=8070046",
     "descriptionHtml": null,
     "tags": []
@@ -750,7 +750,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:40-04:00",
+    "postedAt": "2026-10-13T19:43:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
     "descriptionHtml": null,
     "tags": []
@@ -764,7 +764,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T16:19:04-04:00",
+    "postedAt": "2026-10-13T19:40:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642",
     "descriptionHtml": null,
     "tags": []
@@ -778,7 +778,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-13T10:03:57-04:00",
+    "postedAt": "2026-10-13T19:40:45-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785",
     "descriptionHtml": null,
     "tags": []
@@ -792,7 +792,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:39:04-04:00",
+    "postedAt": "2026-10-13T19:57:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
     "descriptionHtml": null,
     "tags": []
@@ -806,7 +806,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-13T10:04:05-04:00",
+    "postedAt": "2026-10-13T19:42:50-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607",
     "descriptionHtml": null,
     "tags": []
@@ -820,7 +820,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-26T13:37:56-04:00",
+    "postedAt": "2026-10-13T19:55:27-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
     "descriptionHtml": null,
     "tags": []
@@ -834,7 +834,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-25T16:18:24-04:00",
+    "postedAt": "2026-10-13T19:38:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7993445?gh_jid=7993445",
     "descriptionHtml": null,
     "tags": []
@@ -848,22 +848,8 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T15:59:12-04:00",
+    "postedAt": "2026-10-13T19:57:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8244259?gh_jid=8244259",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "7304930",
-    "title": "Head of Product Creative ",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-07-21T14:19:20-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/7304930?gh_jid=7304930",
     "descriptionHtml": null,
     "tags": []
   },
@@ -876,7 +862,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-06T12:19:03-04:00",
+    "postedAt": "2026-10-13T19:48:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175569?gh_jid=8175569",
     "descriptionHtml": null,
     "tags": []
@@ -890,7 +876,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-21T21:42:16-04:00",
+    "postedAt": "2026-10-13T19:55:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8221238?gh_jid=8221238",
     "descriptionHtml": null,
     "tags": []
@@ -904,7 +890,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T19:01:53-04:00",
+    "postedAt": "2026-10-13T19:50:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175432?gh_jid=8175432",
     "descriptionHtml": null,
     "tags": []
@@ -918,7 +904,7 @@
     "location": "Remote - Luxembourg",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:37-04:00",
+    "postedAt": "2026-10-13T19:45:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292",
     "descriptionHtml": null,
     "tags": []
@@ -932,7 +918,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-03T16:17:21-04:00",
+    "postedAt": "2026-10-13T19:45:28-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684",
     "descriptionHtml": null,
     "tags": []
@@ -946,7 +932,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-02T22:31:55-04:00",
+    "postedAt": "2026-10-13T19:45:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911",
     "descriptionHtml": null,
     "tags": []
@@ -960,7 +946,7 @@
     "location": "San Francisco, CA",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T13:09:53-04:00",
+    "postedAt": "2026-10-13T19:56:06-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8234137?gh_jid=8234137",
     "descriptionHtml": null,
     "tags": []
@@ -974,7 +960,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-22T13:02:46-04:00",
+    "postedAt": "2026-10-13T19:51:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175514?gh_jid=8175514",
     "descriptionHtml": null,
     "tags": []
@@ -988,7 +974,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T15:11:22-04:00",
+    "postedAt": "2026-10-13T19:45:32-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
     "descriptionHtml": null,
     "tags": []
@@ -1002,7 +988,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-15T00:41:15-04:00",
+    "postedAt": "2026-10-13T19:43:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8030591?gh_jid=8030591",
     "descriptionHtml": null,
     "tags": []
@@ -1016,7 +1002,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:20-04:00",
+    "postedAt": "2026-10-13T19:41:30-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8072054?gh_jid=8072054",
     "descriptionHtml": null,
     "tags": []
@@ -1030,7 +1016,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:21-04:00",
+    "postedAt": "2026-10-13T19:41:47-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187",
     "descriptionHtml": null,
     "tags": []
@@ -1044,7 +1030,7 @@
     "location": "Remote - Brazil",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:33-04:00",
+    "postedAt": "2026-10-13T19:43:24-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260",
     "descriptionHtml": null,
     "tags": []
@@ -1058,7 +1044,7 @@
     "location": "Hybrid - San Francisco, CA",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:22:07-04:00",
+    "postedAt": "2026-10-13T19:51:46-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441",
     "descriptionHtml": null,
     "tags": []
@@ -1072,7 +1058,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T12:41:52-04:00",
+    "postedAt": "2026-10-13T19:53:58-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8167666?gh_jid=8167666",
     "descriptionHtml": null,
     "tags": []
@@ -1086,8 +1072,22 @@
     "location": "Remote - UAE",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-24T12:19:05-04:00",
+    "postedAt": "2026-10-13T19:41:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8023815?gh_jid=8023815",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8269049",
+    "title": "Manager, SEC Reporting",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T13:02:07-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8269049?gh_jid=8269049",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1100,7 +1100,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:12:07-04:00",
+    "postedAt": "2026-10-13T19:47:27-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8232211?gh_jid=8232211",
     "descriptionHtml": null,
     "tags": []
@@ -1114,7 +1114,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:37-04:00",
+    "postedAt": "2026-10-13T19:41:43-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
     "descriptionHtml": null,
     "tags": []
@@ -1128,7 +1128,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:44-04:00",
+    "postedAt": "2026-10-13T19:41:49-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8186586?gh_jid=8186586",
     "descriptionHtml": null,
     "tags": []
@@ -1142,7 +1142,7 @@
     "location": "Remote - UAE",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T03:10:42-04:00",
+    "postedAt": "2026-10-13T19:54:42-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8207236?gh_jid=8207236",
     "descriptionHtml": null,
     "tags": []
@@ -1156,7 +1156,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:46-04:00",
+    "postedAt": "2026-10-13T19:41:52-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059",
     "descriptionHtml": null,
     "tags": []
@@ -1170,7 +1170,7 @@
     "location": "Remote - Singapore",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T00:44:43-04:00",
+    "postedAt": "2026-10-13T19:54:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8239099?gh_jid=8239099",
     "descriptionHtml": null,
     "tags": []
@@ -1184,22 +1184,8 @@
     "location": "Remote - Abu Dhabi",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T10:43:41-04:00",
+    "postedAt": "2026-10-13T19:55:33-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8207241?gh_jid=8207241",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8013718",
-    "title": "Operations Senior Associate",
-    "department": null,
-    "location": "Remote - Luxembourg",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-08-14T15:27:43-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8013718?gh_jid=8013718",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1212,7 +1198,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-10T19:47:44-04:00",
+    "postedAt": "2026-10-13T19:51:59-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175447?gh_jid=8175447",
     "descriptionHtml": null,
     "tags": []
@@ -1226,7 +1212,7 @@
     "location": "Manila, Philippines",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:57-04:00",
+    "postedAt": "2026-10-13T19:43:40-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8147663?gh_jid=8147663",
     "descriptionHtml": null,
     "tags": []
@@ -1254,7 +1240,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-10-05T03:08:22-04:00",
+    "postedAt": "2026-10-13T19:51:06-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175517?gh_jid=8175517",
     "descriptionHtml": null,
     "tags": []
@@ -1268,7 +1254,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-30T14:40:31-04:00",
+    "postedAt": "2026-10-13T19:45:46-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175556?gh_jid=8175556",
     "descriptionHtml": null,
     "tags": []
@@ -1282,7 +1268,7 @@
     "location": "Remote - Argentina",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-08T13:18:46-04:00",
+    "postedAt": "2026-10-13T19:57:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8250934?gh_jid=8250934",
     "descriptionHtml": null,
     "tags": []
@@ -1296,7 +1282,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-05T19:55:22-04:00",
+    "postedAt": "2026-10-13T19:42:32-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8013951?gh_jid=8013951",
     "descriptionHtml": null,
     "tags": []
@@ -1310,7 +1296,7 @@
     "location": "Remote - Singapore",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-18T10:04:02-04:00",
+    "postedAt": "2026-10-13T19:45:30-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8106071?gh_jid=8106071",
     "descriptionHtml": null,
     "tags": []
@@ -1324,8 +1310,22 @@
     "location": "Hybrid - San Francisco, CA",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:14:49-04:00",
+    "postedAt": "2026-10-13T19:48:48-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175339?gh_jid=8175339",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8258909",
+    "title": "Product Manager II, Advanced Trade ",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-14T09:50:35-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8258909?gh_jid=8258909",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1338,7 +1338,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-06T16:51:55-04:00",
+    "postedAt": "2026-10-13T19:45:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8259870?gh_jid=8259870",
     "descriptionHtml": null,
     "tags": []
@@ -1352,7 +1352,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-10T03:49:43-04:00",
+    "postedAt": "2026-10-13T19:54:48-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571",
     "descriptionHtml": null,
     "tags": []
@@ -1366,7 +1366,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-21T18:04:19-04:00",
+    "postedAt": "2026-10-13T19:45:48-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171",
     "descriptionHtml": null,
     "tags": []
@@ -1380,7 +1380,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-03T13:03:43-04:00",
+    "postedAt": "2026-10-13T19:38:56-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7572514?gh_jid=7572514",
     "descriptionHtml": null,
     "tags": []
@@ -1394,7 +1394,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:19:02-04:00",
+    "postedAt": "2026-10-13T19:47:59-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8165389?gh_jid=8165389",
     "descriptionHtml": null,
     "tags": []
@@ -1408,7 +1408,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-22T13:02:41-04:00",
+    "postedAt": "2026-10-13T19:51:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175507?gh_jid=8175507",
     "descriptionHtml": null,
     "tags": []
@@ -1422,22 +1422,8 @@
     "location": "Remote - Singapore",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T22:05:57-04:00",
+    "postedAt": "2026-10-13T19:47:24-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8152576?gh_jid=8152576",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8147696",
-    "title": "Risk & Monitoring Analyst III",
-    "department": null,
-    "location": "Remote - UK",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-10-12T14:11:18-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1450,8 +1436,22 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:22-04:00",
+    "postedAt": "2026-10-13T19:42:27-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8147699?gh_jid=8147699",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8147696",
+    "title": "Risk & Monitoring Analyst III",
+    "department": null,
+    "location": "Remote - UK",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:42:24-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8147696?gh_jid=8147696",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1478,7 +1478,7 @@
     "location": "Remote - UAE",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T03:07:36-04:00",
+    "postedAt": "2026-10-13T19:55:44-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8224979?gh_jid=8224979",
     "descriptionHtml": null,
     "tags": []
@@ -1492,7 +1492,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T14:17:43-04:00",
+    "postedAt": "2026-10-13T19:43:33-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8221985?gh_jid=8221985",
     "descriptionHtml": null,
     "tags": []
@@ -1506,7 +1506,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:31-04:00",
+    "postedAt": "2026-10-13T19:43:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8024880?gh_jid=8024880",
     "descriptionHtml": null,
     "tags": []
@@ -1520,7 +1520,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-13T16:16:22-04:00",
+    "postedAt": "2026-10-13T19:43:45-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386",
     "descriptionHtml": null,
     "tags": []
@@ -1534,7 +1534,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-25T12:03:46-04:00",
+    "postedAt": "2026-10-13T19:43:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8060577?gh_jid=8060577",
     "descriptionHtml": null,
     "tags": []
@@ -1548,7 +1548,7 @@
     "location": "Hybrid - Luxembourg",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-25T02:42:57-04:00",
+    "postedAt": "2026-10-13T19:39:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7611263?gh_jid=7611263",
     "descriptionHtml": null,
     "tags": []
@@ -1562,7 +1562,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-25T11:03:45-04:00",
+    "postedAt": "2026-10-13T19:46:12-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8224901?gh_jid=8224901",
     "descriptionHtml": null,
     "tags": []
@@ -1576,7 +1576,7 @@
     "location": "Remote - Singapore",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-21T16:49:20-04:00",
+    "postedAt": "2026-10-13T19:45:50-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917",
     "descriptionHtml": null,
     "tags": []
@@ -1590,7 +1590,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-16T19:46:17-04:00",
+    "postedAt": "2026-10-13T19:41:38-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8206668?gh_jid=8206668",
     "descriptionHtml": null,
     "tags": []
@@ -1632,7 +1632,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-13T09:48:35-04:00",
+    "postedAt": "2026-10-13T19:45:44-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8124224?gh_jid=8124224",
     "descriptionHtml": null,
     "tags": []
@@ -1646,7 +1646,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:12-04:00",
+    "postedAt": "2026-10-13T19:39:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048",
     "descriptionHtml": null,
     "tags": []
@@ -1660,7 +1660,7 @@
     "location": "Remote - Abu Dhabi",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T00:44:17-04:00",
+    "postedAt": "2026-10-13T19:55:14-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8207217?gh_jid=8207217",
     "descriptionHtml": null,
     "tags": []
@@ -1688,7 +1688,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-08T14:20:40-04:00",
+    "postedAt": "2026-10-13T19:55:29-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8260052?gh_jid=8260052",
     "descriptionHtml": null,
     "tags": []
@@ -1702,7 +1702,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-04T03:08:31-04:00",
+    "postedAt": "2026-10-13T19:45:36-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8179114?gh_jid=8179114",
     "descriptionHtml": null,
     "tags": []
@@ -1716,22 +1716,8 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-31T05:18:54-04:00",
+    "postedAt": "2026-10-13T19:46:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8162914?gh_jid=8162914",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8054055",
-    "title": "Senior IT Automation Engineer",
-    "department": null,
-    "location": "Remote - India",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-10-12T13:09:28-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1744,8 +1730,22 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T13:09:25-04:00",
+    "postedAt": "2026-10-13T19:43:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8054055",
+    "title": "Senior IT Automation Engineer",
+    "department": null,
+    "location": "Remote - India",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:43:05-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1758,7 +1758,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:16-04:00",
+    "postedAt": "2026-10-13T19:40:48-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7739592?gh_jid=7739592",
     "descriptionHtml": null,
     "tags": []
@@ -1772,7 +1772,7 @@
     "location": "Remote - Brazil",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:23-04:00",
+    "postedAt": "2026-10-13T19:42:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8008569?gh_jid=8008569",
     "descriptionHtml": null,
     "tags": []
@@ -1781,12 +1781,12 @@
     "source": "greenhouse",
     "company": "Coinbase",
     "reqId": "8211490",
-    "title": "Senior Machine Learning Platform Engineer",
+    "title": "Senior Machine Learning Platform Engineer - Identity",
     "department": null,
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T15:01:52-04:00",
+    "postedAt": "2026-10-14T00:38:34-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8211490?gh_jid=8211490",
     "descriptionHtml": null,
     "tags": []
@@ -1814,7 +1814,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-09T19:23:24-04:00",
+    "postedAt": "2026-10-13T19:41:12-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7948222?gh_jid=7948222",
     "descriptionHtml": null,
     "tags": []
@@ -1828,7 +1828,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-04T17:31:02-04:00",
+    "postedAt": "2026-10-13T19:46:31-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8180833?gh_jid=8180833",
     "descriptionHtml": null,
     "tags": []
@@ -1842,7 +1842,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-01T20:36:22-04:00",
+    "postedAt": "2026-10-13T19:54:41-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8242207?gh_jid=8242207",
     "descriptionHtml": null,
     "tags": []
@@ -1856,7 +1856,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-04T17:24:43-04:00",
+    "postedAt": "2026-10-13T19:48:06-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8179311?gh_jid=8179311",
     "descriptionHtml": null,
     "tags": []
@@ -1870,7 +1870,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:18:53-04:00",
+    "postedAt": "2026-10-13T19:43:42-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8051513?gh_jid=8051513",
     "descriptionHtml": null,
     "tags": []
@@ -1884,7 +1884,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-25T04:39:21-04:00",
+    "postedAt": "2026-10-13T19:38:57-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8192485?gh_jid=8192485",
     "descriptionHtml": null,
     "tags": []
@@ -1898,7 +1898,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T14:14:02-04:00",
+    "postedAt": "2026-10-13T19:57:07-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8247040?gh_jid=8247040",
     "descriptionHtml": null,
     "tags": []
@@ -1912,7 +1912,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-07T13:31:21-04:00",
+    "postedAt": "2026-10-13T19:45:23-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8114474?gh_jid=8114474",
     "descriptionHtml": null,
     "tags": []
@@ -1926,7 +1926,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:32-04:00",
+    "postedAt": "2026-10-13T19:43:57-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8077090?gh_jid=8077090",
     "descriptionHtml": null,
     "tags": []
@@ -1940,8 +1940,22 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:19-04:00",
+    "postedAt": "2026-10-13T19:40:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7961318?gh_jid=7961318",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8146039",
+    "title": "Senior Software Engineer - Access & Authorization (Platform)",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-14T00:32:12-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039",
     "descriptionHtml": null,
     "tags": []
   },
@@ -1954,7 +1968,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-18T15:04:15-04:00",
+    "postedAt": "2026-10-13T19:54:21-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8174949?gh_jid=8174949",
     "descriptionHtml": null,
     "tags": []
@@ -1968,7 +1982,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-25T04:39:42-04:00",
+    "postedAt": "2026-10-13T19:44:18-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8092651?gh_jid=8092651",
     "descriptionHtml": null,
     "tags": []
@@ -1982,7 +1996,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T03:06:45-04:00",
+    "postedAt": "2026-10-13T19:41:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7930686?gh_jid=7930686",
     "descriptionHtml": null,
     "tags": []
@@ -1996,7 +2010,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-08T19:50:38-04:00",
+    "postedAt": "2026-10-13T19:48:16-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8174232?gh_jid=8174232",
     "descriptionHtml": null,
     "tags": []
@@ -2010,7 +2024,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T13:13:30-04:00",
+    "postedAt": "2026-10-13T19:56:35-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8238630?gh_jid=8238630",
     "descriptionHtml": null,
     "tags": []
@@ -2024,36 +2038,8 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-01T15:16:52-04:00",
+    "postedAt": "2026-10-13T19:56:09-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8247401?gh_jid=8247401",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8095252",
-    "title": "Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets)",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-10-12T16:18:26-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8243517",
-    "title": "Senior Software Engineer, Backend (Retail DEX)",
-    "department": null,
-    "location": "Remote - Canada",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-10-01T10:11:48-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2066,8 +2052,22 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-13T11:12:12-04:00",
+    "postedAt": "2026-10-13T19:54:19-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8243520?gh_jid=8243520",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8243517",
+    "title": "Senior Software Engineer, Backend (Retail DEX)",
+    "department": null,
+    "location": "Remote - Canada",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:54:19-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8243517?gh_jid=8243517",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2080,7 +2080,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-09T15:48:23-04:00",
+    "postedAt": "2026-10-13T19:45:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8094196?gh_jid=8094196",
     "descriptionHtml": null,
     "tags": []
@@ -2094,7 +2094,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-24T11:28:40-04:00",
+    "postedAt": "2026-10-13T19:54:56-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8204215?gh_jid=8204215",
     "descriptionHtml": null,
     "tags": []
@@ -2108,7 +2108,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-09T20:07:30-04:00",
+    "postedAt": "2026-10-13T19:42:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8269081?gh_jid=8269081",
     "descriptionHtml": null,
     "tags": []
@@ -2122,7 +2122,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T13:09:19-04:00",
+    "postedAt": "2026-10-13T19:41:05-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7847431?gh_jid=7847431",
     "descriptionHtml": null,
     "tags": []
@@ -2136,7 +2136,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-05T20:40:55-04:00",
+    "postedAt": "2026-10-13T19:54:16-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8172100?gh_jid=8172100",
     "descriptionHtml": null,
     "tags": []
@@ -2150,7 +2150,7 @@
     "location": "Remote - Canada",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-07-30T20:09:18-04:00",
+    "postedAt": "2026-10-13T19:45:20-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8097944?gh_jid=8097944",
     "descriptionHtml": null,
     "tags": []
@@ -2164,7 +2164,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-24T12:03:46-04:00",
+    "postedAt": "2026-10-13T19:41:02-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7812407?gh_jid=7812407",
     "descriptionHtml": null,
     "tags": []
@@ -2178,7 +2178,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-18T03:03:44-04:00",
+    "postedAt": "2026-10-13T19:41:19-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7964398?gh_jid=7964398",
     "descriptionHtml": null,
     "tags": []
@@ -2192,7 +2192,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:09-04:00",
+    "postedAt": "2026-10-13T19:38:42-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221",
     "descriptionHtml": null,
     "tags": []
@@ -2206,7 +2206,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-13T18:36:49-04:00",
+    "postedAt": "2026-10-13T19:44:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8088201?gh_jid=8088201",
     "descriptionHtml": null,
     "tags": []
@@ -2220,7 +2220,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-02T11:23:09-04:00",
+    "postedAt": "2026-10-13T19:43:16-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8029035?gh_jid=8029035",
     "descriptionHtml": null,
     "tags": []
@@ -2234,7 +2234,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-28T15:56:50-04:00",
+    "postedAt": "2026-10-13T19:48:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8165015?gh_jid=8165015",
     "descriptionHtml": null,
     "tags": []
@@ -2248,7 +2248,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:48:35-04:00",
+    "postedAt": "2026-10-13T19:55:03-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8193862?gh_jid=8193862",
     "descriptionHtml": null,
     "tags": []
@@ -2262,7 +2262,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T16:35:12-04:00",
+    "postedAt": "2026-10-13T19:53:56-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8248766?gh_jid=8248766",
     "descriptionHtml": null,
     "tags": []
@@ -2276,7 +2276,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T16:09:42-04:00",
+    "postedAt": "2026-10-13T19:56:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8238716?gh_jid=8238716",
     "descriptionHtml": null,
     "tags": []
@@ -2290,7 +2290,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T20:16:14-04:00",
+    "postedAt": "2026-10-13T19:56:54-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241748?gh_jid=8241748",
     "descriptionHtml": null,
     "tags": []
@@ -2304,22 +2304,8 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T14:22:50-04:00",
+    "postedAt": "2026-10-13T19:56:51-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241724?gh_jid=8241724",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8146039",
-    "title": "Senior Software Engineer (Platform - Access & Authorization)",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-08-21T17:05:50-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8146039?gh_jid=8146039",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2332,7 +2318,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-09T20:04:13-04:00",
+    "postedAt": "2026-10-13T19:42:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
     "descriptionHtml": null,
     "tags": []
@@ -2346,7 +2332,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-18T09:17:58-04:00",
+    "postedAt": "2026-10-13T19:42:41-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8103569?gh_jid=8103569",
     "descriptionHtml": null,
     "tags": []
@@ -2360,7 +2346,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T19:04:13-04:00",
+    "postedAt": "2026-10-13T19:44:28-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8104873?gh_jid=8104873",
     "descriptionHtml": null,
     "tags": []
@@ -2374,7 +2360,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:22-04:00",
+    "postedAt": "2026-10-13T19:42:53-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8017697?gh_jid=8017697",
     "descriptionHtml": null,
     "tags": []
@@ -2388,7 +2374,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-07-15T16:18:54-04:00",
+    "postedAt": "2026-10-13T19:38:26-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7366208?gh_jid=7366208",
     "descriptionHtml": null,
     "tags": []
@@ -2402,7 +2388,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-07-15T16:18:51-04:00",
+    "postedAt": "2026-10-13T19:38:24-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292",
     "descriptionHtml": null,
     "tags": []
@@ -2416,7 +2402,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-23T19:49:36-04:00",
+    "postedAt": "2026-10-13T19:38:46-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7711287?gh_jid=7711287",
     "descriptionHtml": null,
     "tags": []
@@ -2430,7 +2416,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-15T00:18:16-04:00",
+    "postedAt": "2026-10-13T19:54:29-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8179210?gh_jid=8179210",
     "descriptionHtml": null,
     "tags": []
@@ -2444,7 +2430,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T19:58:17-04:00",
+    "postedAt": "2026-10-13T19:56:45-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241716?gh_jid=8241716",
     "descriptionHtml": null,
     "tags": []
@@ -2458,7 +2444,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-13T10:04:11-04:00",
+    "postedAt": "2026-10-13T19:46:01-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8155366?gh_jid=8155366",
     "descriptionHtml": null,
     "tags": []
@@ -2472,7 +2458,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:53-04:00",
+    "postedAt": "2026-10-13T19:41:59-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8198065?gh_jid=8198065",
     "descriptionHtml": null,
     "tags": []
@@ -2486,7 +2472,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:59:58-04:00",
+    "postedAt": "2026-10-13T19:42:18-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8230848?gh_jid=8230848",
     "descriptionHtml": null,
     "tags": []
@@ -2500,22 +2486,8 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-16T18:47:19-04:00",
+    "postedAt": "2026-10-13T19:55:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8209803?gh_jid=8209803",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8207374",
-    "title": "Software Engineer",
-    "department": null,
-    "location": "Remote - Canada",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-16T05:53:17-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2528,8 +2500,22 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:27-04:00",
+    "postedAt": "2026-10-13T19:42:39-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8003605?gh_jid=8003605",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8207374",
+    "title": "Software Engineer",
+    "department": null,
+    "location": "Remote - Canada",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:54:24-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8207374?gh_jid=8207374",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2542,7 +2528,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-12T03:32:54-04:00",
+    "postedAt": "2026-10-13T19:42:47-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437",
     "descriptionHtml": null,
     "tags": []
@@ -2556,7 +2542,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T18:40:26-04:00",
+    "postedAt": "2026-10-13T19:55:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
     "descriptionHtml": null,
     "tags": []
@@ -2570,7 +2556,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-28T15:50:04-04:00",
+    "postedAt": "2026-10-13T19:46:34-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8164730?gh_jid=8164730",
     "descriptionHtml": null,
     "tags": []
@@ -2584,7 +2570,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T16:34:11-04:00",
+    "postedAt": "2026-10-13T19:55:24-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
     "descriptionHtml": null,
     "tags": []
@@ -2598,8 +2584,22 @@
     "location": "Remote - Brazil",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:46-04:00",
+    "postedAt": "2026-10-13T19:45:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8279479",
+    "title": "Software Engineer, Enterprise Apps ",
+    "department": null,
+    "location": "Remote - Brazil",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T17:33:04-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8279479?gh_jid=8279479",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2640,7 +2640,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-28T19:26:55-04:00",
+    "postedAt": "2026-10-13T19:45:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441",
     "descriptionHtml": null,
     "tags": []
@@ -2654,22 +2654,8 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:18:57-04:00",
+    "postedAt": "2026-10-13T19:44:20-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8122777?gh_jid=8122777",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
-    "reqId": "8222264",
-    "title": "Specialist, Market Operations",
-    "department": null,
-    "location": "Remote - Singapore",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-21T22:46:36-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2682,7 +2668,7 @@
     "location": "Remote - UK",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-25T14:52:39-04:00",
+    "postedAt": "2026-10-13T19:47:55-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8222267?gh_jid=8222267",
     "descriptionHtml": null,
     "tags": []
@@ -2696,8 +2682,22 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T22:41:41-04:00",
+    "postedAt": "2026-10-13T19:47:37-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8222259?gh_jid=8222259",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
+    "reqId": "8222264",
+    "title": "Specialist, Market Operations",
+    "department": null,
+    "location": "Remote - Singapore",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:47:46-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8222264?gh_jid=8222264",
     "descriptionHtml": null,
     "tags": []
   },
@@ -2710,7 +2710,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T03:04:57-04:00",
+    "postedAt": "2026-10-13T19:46:15-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8144772?gh_jid=8144772",
     "descriptionHtml": null,
     "tags": []
@@ -2724,7 +2724,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T03:05:11-04:00",
+    "postedAt": "2026-10-13T19:46:43-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8144776?gh_jid=8144776",
     "descriptionHtml": null,
     "tags": []
@@ -2738,7 +2738,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:43-04:00",
+    "postedAt": "2026-10-13T19:44:48-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856",
     "descriptionHtml": null,
     "tags": []
@@ -2752,7 +2752,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-21T03:05:07-04:00",
+    "postedAt": "2026-10-13T19:46:18-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8144836?gh_jid=8144836",
     "descriptionHtml": null,
     "tags": []
@@ -2766,7 +2766,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-04T03:08:31-04:00",
+    "postedAt": "2026-10-13T19:45:36-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8144769?gh_jid=8144769",
     "descriptionHtml": null,
     "tags": []
@@ -2788,20 +2788,6 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
-    "reqId": "8211486",
-    "title": "Staff Machine Learning Engineer(Platform - Identity)",
-    "department": null,
-    "location": "Remote - USA",
-    "remote": true,
-    "employmentType": null,
-    "postedAt": "2026-09-17T15:38:43-04:00",
-    "applyUrl": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
-    "descriptionHtml": null,
-    "tags": []
-  },
-  {
-    "source": "greenhouse",
-    "company": "Coinbase",
     "reqId": "7891045",
     "title": "Staff Machine Learning Engineer(Platform - Identity)",
     "department": null,
@@ -2816,13 +2802,27 @@
   {
     "source": "greenhouse",
     "company": "Coinbase",
+    "reqId": "8211486",
+    "title": "Staff Machine Learning Engineer(Platform - Identity)",
+    "department": null,
+    "location": "Remote - USA",
+    "remote": true,
+    "employmentType": null,
+    "postedAt": "2026-10-13T19:55:36-04:00",
+    "applyUrl": "https://www.coinbase.com/careers/positions/8211486?gh_jid=8211486",
+    "descriptionHtml": null,
+    "tags": []
+  },
+  {
+    "source": "greenhouse",
+    "company": "Coinbase",
     "reqId": "8021650",
     "title": "Staff Software Engineer",
     "department": null,
     "location": "Remote - Israel",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-28T01:38:26-04:00",
+    "postedAt": "2026-10-13T19:42:58-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8021650?gh_jid=8021650",
     "descriptionHtml": null,
     "tags": []
@@ -2836,7 +2836,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-26T20:36:40-04:00",
+    "postedAt": "2026-10-13T19:46:54-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8160557?gh_jid=8160557",
     "descriptionHtml": null,
     "tags": []
@@ -2850,7 +2850,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T13:09:22-04:00",
+    "postedAt": "2026-10-13T19:41:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7991691?gh_jid=7991691",
     "descriptionHtml": null,
     "tags": []
@@ -2864,7 +2864,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:38-04:00",
+    "postedAt": "2026-10-13T19:43:27-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8054153?gh_jid=8054153",
     "descriptionHtml": null,
     "tags": []
@@ -2878,7 +2878,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-18T03:03:57-04:00",
+    "postedAt": "2026-10-13T19:41:27-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410",
     "descriptionHtml": null,
     "tags": []
@@ -2892,7 +2892,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:04-04:00",
+    "postedAt": "2026-10-13T19:38:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/6784618?gh_jid=6784618",
     "descriptionHtml": null,
     "tags": []
@@ -2906,7 +2906,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T20:38:29-04:00",
+    "postedAt": "2026-10-13T19:43:19-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8166218?gh_jid=8166218",
     "descriptionHtml": null,
     "tags": []
@@ -2920,7 +2920,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-06-12T16:33:28-04:00",
+    "postedAt": "2026-10-13T19:38:52-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141",
     "descriptionHtml": null,
     "tags": []
@@ -2934,7 +2934,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-02T18:04:08-04:00",
+    "postedAt": "2026-10-13T19:46:22-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8154342?gh_jid=8154342",
     "descriptionHtml": null,
     "tags": []
@@ -2948,7 +2948,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-29T21:28:41-04:00",
+    "postedAt": "2026-10-13T19:56:57-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241752?gh_jid=8241752",
     "descriptionHtml": null,
     "tags": []
@@ -2962,7 +2962,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-30T14:28:32-04:00",
+    "postedAt": "2026-10-13T19:56:47-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8241720?gh_jid=8241720",
     "descriptionHtml": null,
     "tags": []
@@ -2976,7 +2976,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-21T17:04:19-04:00",
+    "postedAt": "2026-10-13T19:45:17-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8114877?gh_jid=8114877",
     "descriptionHtml": null,
     "tags": []
@@ -2990,7 +2990,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-25T18:23:59-04:00",
+    "postedAt": "2026-10-13T19:54:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8204243?gh_jid=8204243",
     "descriptionHtml": null,
     "tags": []
@@ -3004,7 +3004,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-07-17T17:26:51-04:00",
+    "postedAt": "2026-10-13T19:40:42-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/7773776?gh_jid=7773776",
     "descriptionHtml": null,
     "tags": []
@@ -3018,7 +3018,7 @@
     "location": "Remote - India",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-31T13:27:12-04:00",
+    "postedAt": "2026-10-13T19:54:11-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8167571?gh_jid=8167571",
     "descriptionHtml": null,
     "tags": []
@@ -3032,7 +3032,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-09T10:03:38-04:00",
+    "postedAt": "2026-10-13T19:57:13-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8259801?gh_jid=8259801",
     "descriptionHtml": null,
     "tags": []
@@ -3046,7 +3046,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-10T12:45:21-04:00",
+    "postedAt": "2026-10-13T19:51:26-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175438?gh_jid=8175438",
     "descriptionHtml": null,
     "tags": []
@@ -3060,7 +3060,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-08-25T20:07:45-04:00",
+    "postedAt": "2026-10-13T19:47:14-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8148248?gh_jid=8148248",
     "descriptionHtml": null,
     "tags": []
@@ -3074,7 +3074,7 @@
     "location": "Remote - Cyprus",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:12:02-04:00",
+    "postedAt": "2026-10-13T19:44:00-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8082829?gh_jid=8082829",
     "descriptionHtml": null,
     "tags": []
@@ -3088,7 +3088,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-21T22:02:12-04:00",
+    "postedAt": "2026-10-13T19:56:03-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8221241?gh_jid=8221241",
     "descriptionHtml": null,
     "tags": []
@@ -3102,7 +3102,7 @@
     "location": "Hybrid - New York, NY",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T19:07:56-04:00",
+    "postedAt": "2026-10-13T19:52:08-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175453?gh_jid=8175453",
     "descriptionHtml": null,
     "tags": []
@@ -3116,7 +3116,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:11:01-04:00",
+    "postedAt": "2026-10-13T19:42:07-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8013948?gh_jid=8013948",
     "descriptionHtml": null,
     "tags": []
@@ -3130,7 +3130,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-10-12T14:10:50-04:00",
+    "postedAt": "2026-10-13T19:41:56-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8013892?gh_jid=8013892",
     "descriptionHtml": null,
     "tags": []
@@ -3144,7 +3144,7 @@
     "location": "Remote - USA",
     "remote": true,
     "employmentType": null,
-    "postedAt": "2026-09-03T14:02:16-04:00",
+    "postedAt": "2026-10-13T19:54:04-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
     "descriptionHtml": null,
     "tags": []
@@ -3158,7 +3158,7 @@
     "location": "Hybrid - San Francisco, CA",
     "remote": false,
     "employmentType": null,
-    "postedAt": "2026-09-08T18:17:48-04:00",
+    "postedAt": "2026-10-13T19:49:59-04:00",
     "applyUrl": "https://www.coinbase.com/careers/positions/8175360?gh_jid=8175360",
     "descriptionHtml": null,
     "tags": []
