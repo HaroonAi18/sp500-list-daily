@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T20:10:31.476Z",
+  "updated_at": "2026-11-04T20:28:19.872Z",
   "source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
   "companies": [
     {
@@ -1368,11 +1368,6 @@
       "sector": "Food Retail"
     },
     {
-      "symbol": "KVUE",
-      "name": "Kenvue",
-      "sector": "Personal Care Products"
-    },
-    {
       "symbol": "L",
       "name": "Loews Corporation",
       "sector": "Multi-line Insurance"
@@ -1736,6 +1731,11 @@
       "symbol": "OKE",
       "name": "Oneok",
       "sector": "Oil & Gas Storage & Transportation"
+    },
+    {
+      "symbol": "OKTA",
+      "name": "Okta, Inc.",
+      "sector": "Application Software"
     },
     {
       "symbol": "OMC",

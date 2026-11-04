@@ -1,0 +1,16 @@
+{
+  "added": [
+    {
+      "symbol": "OKTA",
+      "name": "Okta, Inc.",
+      "sector": "Application Software"
+    }
+  ],
+  "removed": [
+    {
+      "symbol": "KVUE",
+      "name": "Kenvue",
+      "sector": "Personal Care Products"
+    }
+  ]
+}
